@@ -1040,7 +1040,7 @@
 			<key>MLB</key>
 			<string></string>
 			<key>ProcessorType</key>
-			<integer>3841</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data></data>
 			<key>SpoofVendor</key>
