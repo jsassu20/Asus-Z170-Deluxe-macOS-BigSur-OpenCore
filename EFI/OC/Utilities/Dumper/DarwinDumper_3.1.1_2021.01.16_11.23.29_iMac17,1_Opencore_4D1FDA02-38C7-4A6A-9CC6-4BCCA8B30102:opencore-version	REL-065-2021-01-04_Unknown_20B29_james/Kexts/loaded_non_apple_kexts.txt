@@ -1,0 +1,13 @@
+Index Refs Address            Size       Wired      Name (Version) UUID <Linked Against>
+   48    7 0                  0x2c000    0x2c000    as.vit9696.Lilu (1.5.0) EC77F3DD-6CAD-3A51-9C5F-A5424F852100 <8 6 5 3 2 1>
+   49    0 0                  0x16f000   0x16f000   as.vit9696.AppleALC (1.5.6) CA44B64F-D945-38E7-9546-EE4684DA7F8F <48 14 8 6 5 3 2 1>
+   50    0 0                  0xd000     0xd000     org.acidanthera.NVMeFix (1.0.5) B770910E-57A2-3513-8CF3-08709D7E6AA7 <48 8 6 5 3 2 1>
+   51    0 0                  0xe000     0xe000     com.osy86.ThunderboltReset (1.0.0d1) 1D191F8A-9D2A-32C4-ACDC-59FF143A90A7 <48 8 6 5 3 2 1>
+   52    0 0                  0x7b000    0x7b000    as.vit9696.WhateverGreen (1.4.6) 42F6B77A-4785-3975-B87D-CA50357ADFC2 <48 14 8 6 5 3 2 1>
+   53    0 0                  0x10000    0x10000    com.rehabman.driver.USBInjectAll (0.7.5) 4AD4F393-AEA2-37D8-BB1A-96837900DE2A <14 13 5 3>
+   54    2 0                  0x1a000    0x1a000    as.vit9696.VirtualSMC (1.1.9) A05D183D-9D34-31C8-8D55-8FE54DCE6C44 <48 13 8 6 5 3 2 1>
+   55    0 0                  0xf000     0xf000     as.vit9696.SMCProcessor (1.1.9) 08812085-82F1-3C80-A129-5E0613393984 <54 48 13 8 6 5 3 2 1>
+   71    0 0                  0x2a000    0x2a000    as.acidanthera.mieze.IntelMausi (1.0.5) 8191506E-330C-35E3-9108-CE0A26C0134D <46 14 6 5 3 1>
+   75    0 0                  0xb000     0xb000     de.Brumbaer.PropertyInjector (1) A4E17D88-9D19-3A63-86E9-78585FF9680D <8 6 5 3 1>
+   78    0 0                  0x14000    0x14000    ru.joedm.SMCSuperIO (1.1.9) 28291116-29B2-3223-A546-CA7C7D3140BD <54 48 13 8 6 5 3 2 1>
+  156    2 0xffffff7fa164a000 0x60000    0x60000    com.iboysoft.filesystems.ms_ntfs (1) EA7A1460-0E7F-3113-85F2-A6E6B5227930 <8 6 5 1>

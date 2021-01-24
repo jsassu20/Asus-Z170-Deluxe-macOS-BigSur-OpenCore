@@ -1,0 +1,21 @@
+[
+{"data":{"title":"IOAudioEngineGlobalUniqueIDLegacy"},"attr":{"id":"52994","ColType":"String","ColValue":"AppleHDAEngineOutput:3"}},
+{"data":{"title":"IOAudioEngineNumActiveUserClients"},"attr":{"id":"52996","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOAudioEngineCoreAudioPlugIn"},"attr":{"id":"52998","ColType":"String","ColValue":"AppleHDA.kext/Contents/PlugIns/AppleHDAHALPlugIn.bundle"}},
+{"data":{"title":"IOAudioEngineInputSampleOffset"},"attr":{"id":"53000","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"IOGeneralInterest"},"attr":{"id":"53002","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"IOAudioEngineState"},"attr":{"id":"53004","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOAudioEngineInputSampleLatency"},"attr":{"id":"53006","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOAudioEngineDescription"},"attr":{"id":"53008","ColType":"String","ColValue":"DevShortNameSpdo"}},
+{"data":{"title":"IOAudioEngineClientDescription"},"attr":{"id":"53010","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"kind"},"attr":{"id":"53012","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"IOAudioDeviceCanBeDefaults"},"attr":{"id":"53014","ColType":"Number","ColValue":"6"}},
+{"data":{"title":"IOAudioEngineDisableClockBoundsCheck"},"attr":{"id":"53016","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOAudioEngineNumSampleFramesPerBuffer"},"attr":{"id":"53018","ColType":"Number","ColValue":"49152"}},
+{"data":{"title":"SupportAudioAUUC"},"attr":{"id":"53020","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"IOAudioEngineClockDomain"},"attr":{"id":"53022","ColType":"Number","ColValue":"7567731"}},
+{"data":{"title":"IOAudioSampleRate"},"attr":{"id":"53024","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"IOAudioSampleRateWholeNumber"},"attr":{"id":"53026","ColType":"Number","ColValue":"44100"}},{"data":{"title":"IOAudioSampleRateFraction"},"attr":{"id":"53028","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"IOAudioEngineSampleOffset"},"attr":{"id":"53030","ColType":"Number","ColValue":"93"}},
+{"data":{"title":"IOAudioEngineFlavor"},"attr":{"id":"53032","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"IOAudioEngineOutputSampleLatency"},"attr":{"id":"53034","ColType":"Number","ColValue":"16"}},
+{"data":{"title":"IOAudioEngineGlobalUniqueID"},"attr":{"id":"53036","ColType":"String","ColValue":"AppleHDAEngineOutput:1F,3,0,1,5:3"}}
+]

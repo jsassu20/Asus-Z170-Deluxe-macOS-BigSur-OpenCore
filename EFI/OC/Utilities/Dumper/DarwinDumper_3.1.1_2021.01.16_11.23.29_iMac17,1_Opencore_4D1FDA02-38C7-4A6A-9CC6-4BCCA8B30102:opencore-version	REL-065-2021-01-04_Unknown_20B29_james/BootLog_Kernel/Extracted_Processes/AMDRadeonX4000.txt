@@ -1,0 +1,2 @@
+2021-01-16 11:21:21.23 kernel[0]: (AMDRadeonX4000) Got debug policy value 0x0
+2021-01-16 11:21:28.38 kernel[0]: (AMDRadeonX4000) [1:0:0]: Controller is enabled, finish initialization

@@ -1,0 +1,10 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"57793","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"57795","ColType":"String","ColValue":"org.acidanthera.NVMeFix"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"57797","ColType":"String","ColValue":"NVMeFix"}},
+{"data":{"title":"IOClass"},"attr":{"id":"57799","ColType":"String","ColValue":"NVMeFix"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"57801","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"57803","ColType":"String","ColValue":"org.acidanthera.NVMeFix"}},
+{"data":{"title":"VersionInfo"},"attr":{"id":"57805","ColType":"String","ColValue":"REL-105-2021-01-04"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"57807","ColType":"String","ColValue":"IOKit"}}
+]

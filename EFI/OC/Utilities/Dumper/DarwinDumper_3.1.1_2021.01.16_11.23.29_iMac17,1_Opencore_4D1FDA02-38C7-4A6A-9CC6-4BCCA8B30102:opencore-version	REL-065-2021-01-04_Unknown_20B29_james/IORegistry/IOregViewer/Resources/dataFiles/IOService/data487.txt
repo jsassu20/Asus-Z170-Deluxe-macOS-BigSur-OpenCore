@@ -1,0 +1,23 @@
+[
+{"data":{"title":"Logical Block Size"},"attr":{"id":"46257","ColType":"Number","ColValue":"4096"}},
+{"data":{"title":"Open"},"attr":{"id":"46259","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"Preferred Block Size"},"attr":{"id":"46261","ColType":"Number","ColValue":"4096"}},
+{"data":{"title":"Writable"},"attr":{"id":"46263","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOBusyInterest"},"attr":{"id":"46265","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"Size"},"attr":{"id":"46267","ColType":"Number","ColValue":"499898105856"}},
+{"data":{"title":"Content"},"attr":{"id":"46269","ColType":"String","ColValue":"EF57347C-0000-11AA-AA11-00306543ECAC"}},
+{"data":{"title":"BSD Minor"},"attr":{"id":"46271","ColType":"Number","ColValue":"13"}},
+{"data":{"title":"Whole"},"attr":{"id":"46273","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOStorageFeatures"},"attr":{"id":"46275","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Unmap"},"attr":{"id":"46277","ColType":"Boolean","ColValue":"Yes"}},{"data":{"title":"Priority"},"attr":{"id":"46279","ColType":"Boolean","ColValue":"No"}},{"data":{"title":"Barrier"},"attr":{"id":"46281","ColType":"Boolean","ColValue":"No"}}]},
+{"data":{"title":"Removable"},"attr":{"id":"46283","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"EncryptionBlockSize"},"attr":{"id":"46285","ColType":"Number","ColValue":"512"}},
+{"data":{"title":"UUID"},"attr":{"id":"46287","ColType":"String","ColValue":"84E20270-3363-42BD-8CCA-01AA1E282343"}},
+{"data":{"title":"BSD Unit"},"attr":{"id":"46289","ColType":"Number","ColValue":"4"}},
+{"data":{"title":"BSD Major"},"attr":{"id":"46291","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"Ejectable"},"attr":{"id":"46293","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"BSD Name"},"attr":{"id":"46295","ColType":"String","ColValue":"disk4"}},
+{"data":{"title":"Physical Block Size"},"attr":{"id":"46297","ColType":"Number","ColValue":"4096"}},
+{"data":{"title":"IOGeneralInterest"},"attr":{"id":"46299","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"Content Hint"},"attr":{"id":"46301","ColType":"String","ColValue":"EF57347C-0000-11AA-AA11-00306543ECAC"}},
+{"data":{"title":"Leaf"},"attr":{"id":"46303","ColType":"Boolean","ColValue":"No"}}
+]

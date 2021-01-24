@@ -1,0 +1,12 @@
+2021-01-16 11:21:15.45 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::init created and initing
+2021-01-16 11:21:15.46 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::start starting
+2021-01-16 11:21:18.44 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::begin waitQuiet
+2021-01-16 11:21:18.44 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::end waitQuiet
+2021-01-16 11:21:18.44 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::Using interface IOEthernetInterface en0 for identifier
+2021-01-16 11:21:18.44 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::delayedClockIDLookup registered service
+2021-01-16 11:21:18.44 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::addgPTPServices adding services
+2021-01-16 11:21:18.44 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::addgPTPServices requesting matching
+2021-01-16 11:21:20.02 kernel[0]: (IOTimeSyncFamily)   IOTimeSyncDomain(0x9d5c8ed2afd40005): Set lock state to locking.
+2021-01-16 11:21:20.02 kernel[0]: (IOTimeSyncFamily)   IOTimeSyncDomain(0x9d5c8ed2afd40005): Set lock state to locked.
+2021-01-16 11:21:20.02 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::addgPTPServices adding services
+2021-01-16 11:21:20.02 kernel[0]: (IOTimeSyncFamily) IOTimeSyncClockManager::addgPTPServices adding services

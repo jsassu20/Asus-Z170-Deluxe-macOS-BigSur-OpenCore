@@ -1,0 +1,20 @@
+[
+{"data":{"title":"IOLocation"},"attr":{"id":"54735","ColType":"String","ColValue":""}},
+{"data":{"title":"IORequiredPacketFilters"},"attr":{"id":"54737","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"IONetworkFilterGroup"},"attr":{"id":"54739","ColType":"Number","ColValue":"19"}},{"data":{"title":"IOEthernetWakeOnLANFilterGroup"},"attr":{"id":"54741","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"BSD Name"},"attr":{"id":"54743","ColType":"String","ColValue":"en0"}},
+{"data":{"title":"IOMulticastAddressList"},"attr":{"id":"54745","ColType":"Data","ColValue":"&lt;01005e0000fb3333000000fb01005e7f84b201005e0000013333ff0098e33333ffc24c5f3333ff6ffe053333ff4a96c03333000000013333ff4587350180c2000003&gt;"}},
+{"data":{"title":"IOMaxTransferUnit"},"attr":{"id":"54747","ColType":"Number","ColValue":"1500"}},
+{"data":{"title":"IOInterfaceType"},"attr":{"id":"54749","ColType":"Number","ColValue":"6"}},
+{"data":{"title":"IOInterfaceFlags"},"attr":{"id":"54751","ColType":"Number","ColValue":"34915"}},
+{"data":{"title":"IOMediaAddressLength"},"attr":{"id":"54753","ColType":"Number","ColValue":"6"}},
+{"data":{"title":"IOInterfaceState"},"attr":{"id":"54755","ColType":"Number","ColValue":"3"}},
+{"data":{"title":"IOMediaHeaderLength"},"attr":{"id":"54757","ColType":"Number","ColValue":"14"}},
+{"data":{"title":"IOActivePacketFilters"},"attr":{"id":"54759","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"IONetworkFilterGroup"},"attr":{"id":"54761","ColType":"Number","ColValue":"19"}},{"data":{"title":"IOEthernetWakeOnLANFilterGroup"},"attr":{"id":"54763","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"IOInterfaceExtraFlags"},"attr":{"id":"54765","ColType":"Number","ColValue":"1090521536"}},
+{"data":{"title":"IOPrimaryInterface"},"attr":{"id":"54767","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOControllerEnabled"},"attr":{"id":"54769","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOInterfaceUnit"},"attr":{"id":"54771","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOInterfaceNamePrefix"},"attr":{"id":"54773","ColType":"String","ColValue":"en"}},
+{"data":{"title":"IOBuiltin"},"attr":{"id":"54775","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IONetworkData"},"attr":{"id":"54777","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"IOOutputQueueStatsKey"},"attr":{"id":"54779","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Size"},"attr":{"id":"54781","ColType":"Number","ColValue":"44"}},{"data":{"title":"Data"},"attr":{"id":"54783","ColType":"Data","ColValue":"&lt;0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&gt;"}},{"data":{"title":"Access Types"},"attr":{"id":"54785","ColType":"Number","ColValue":"9"}}]},{"data":{"title":"IONetworkStatsKey"},"attr":{"id":"54787","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Size"},"attr":{"id":"54789","ColType":"Number","ColValue":"20"}},{"data":{"title":"Data"},"attr":{"id":"54791","ColType":"Data","ColValue":"&lt;1f09000000000000590800000000000000000000&gt;"}},{"data":{"title":"Access Types"},"attr":{"id":"54793","ColType":"Number","ColValue":"9"}}]},{"data":{"title":"IOEthernetStatsKey"},"attr":{"id":"54795","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Size"},"attr":{"id":"54797","ColType":"Number","ColValue":"216"}},{"data":{"title":"Data"},"attr":{"id":"54799","ColType":"Data","ColValue":"&lt;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000db0600000000000000000000000000000000000000000000000000000000000000000000000000000000000085060000000000000000000000000000000000000000000000000000&gt;"}},{"data":{"title":"Access Types"},"attr":{"id":"54801","ColType":"Number","ColValue":"9"}}]}]}
+]

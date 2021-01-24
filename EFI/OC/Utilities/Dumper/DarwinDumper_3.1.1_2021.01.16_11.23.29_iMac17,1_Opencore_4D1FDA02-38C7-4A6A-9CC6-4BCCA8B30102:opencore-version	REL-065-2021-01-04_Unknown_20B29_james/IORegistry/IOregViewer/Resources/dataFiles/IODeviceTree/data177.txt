@@ -1,0 +1,6 @@
+[
+{"data":{"title":"UsbCPortNumber"},"attr":{"id":"7926","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"UsbPowerSource"},"attr":{"id":"7928","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"acpi-path"},"attr":{"id":"7930","ColType":"String","ColValue":"IOACPIPlane:/_SB/PCI0@0/RP17@1b0000/UPSB@0/DSB2@20000/XHC3@0/RHUB@0/SSP1@3"}},
+{"data":{"title":"acpi-device"},"attr":{"id":"7932","ColType":"String","ColValue":"IOACPIPlatformDevice is not serializable"}}
+]

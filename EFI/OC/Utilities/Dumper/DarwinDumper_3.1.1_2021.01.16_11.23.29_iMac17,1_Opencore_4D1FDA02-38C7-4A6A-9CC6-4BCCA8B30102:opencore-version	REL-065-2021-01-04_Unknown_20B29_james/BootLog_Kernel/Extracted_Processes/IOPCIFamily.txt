@@ -1,0 +1,5 @@
+2021-01-16 11:21:15.71 kernel[0]: (IOPCIFamily) pci (build 00:20:21 Oct 31 2020), flags 0x20c3080
+2021-01-16 11:21:15.71 kernel[0]: (IOPCIFamily) pci (build 00:20:21 Oct 31 2020), flags 0x20c3080
+2021-01-16 11:21:15.71 kernel[0]: (IOPCIFamily) [ PCI configuration begin ]
+2021-01-16 11:21:15.73 kernel[0]: (IOPCIFamily) console relocated to 0x7f80000000
+2021-01-16 11:21:15.73 kernel[0]: (IOPCIFamily) [ PCI configuration end, bridges 21, devices 22 ]

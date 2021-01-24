@@ -1,0 +1,13 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"48187","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"48189","ColType":"String","ColValue":"com.apple.driver.AppleIntelPCHPMC"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"48191","ColType":"String","ColValue":"AppleIntelPCHPMC"}},
+{"data":{"title":"IOClass"},"attr":{"id":"48193","ColType":"String","ColValue":"AppleIntelPCHPMC"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"48195","ColType":"String","ColValue":"com.apple.driver.AppleIntelPCHPMC"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"48197","ColType":"String","ColValue":"IOPCIDevice"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"48199","ColType":"String","ColValue":"com.apple.driver.AppleIntelPCHPMC"}},
+{"data":{"title":"IONameMatch"},"attr":{"id":"48201","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"48202","ColType":"String","ColValue":"pci8086,a121"}},{"data":{"title":"1"},"attr":{"id":"48203","ColType":"String","ColValue":"pci8086,9d21"}},{"data":{"title":"2"},"attr":{"id":"48204","ColType":"String","ColValue":"pci8086,a2a1"}},{"data":{"title":"3"},"attr":{"id":"48205","ColType":"String","ColValue":"pci8086,a1a1"}}]},
+{"data":{"title":"IntelPCH"},"attr":{"id":"48207","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IONameMatched"},"attr":{"id":"48209","ColType":"String","ColValue":"pci8086,a121"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"48211","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CapabilityFlags"},"attr":{"id":"48213","ColType":"Number","ColValue":"32768"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"48215","ColType":"Number","ColValue":"1"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"48217","ColType":"Number","ColValue":"1"}}]}
+]

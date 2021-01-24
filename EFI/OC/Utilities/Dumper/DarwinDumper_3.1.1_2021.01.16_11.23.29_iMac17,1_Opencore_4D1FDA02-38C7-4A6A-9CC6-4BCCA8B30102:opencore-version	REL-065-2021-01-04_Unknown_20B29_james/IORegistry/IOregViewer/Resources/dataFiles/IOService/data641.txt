@@ -1,0 +1,10 @@
+[
+{"data":{"title":"IOAudioControlType"},"attr":{"id":"52787","ColType":"Number","ColValue":"1936483188"}},
+{"data":{"title":"IOAudioSelectorControlAvailableSelections"},"attr":{"id":"52789","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"52790","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"IOAudioSelectorControlSelectionValue"},"attr":{"id":"52792","ColType":"Number","ColValue":"1818848869"}},{"data":{"title":"IOAudioSelectorControlSelectionDescriptionKey"},"attr":{"id":"52794","ColType":"String","ColValue":"LineOut"}}]}]},
+{"data":{"title":"IOAudioControlChannelNumber"},"attr":{"id":"52796","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOAudioControlChannelID"},"attr":{"id":"52798","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOAudioControlUsage"},"attr":{"id":"52800","ColType":"Number","ColValue":"1869968496"}},
+{"data":{"title":"IOAudioControlValue"},"attr":{"id":"52802","ColType":"Number","ColValue":"1818848869"}},
+{"data":{"title":"IOAudioControlID"},"attr":{"id":"52804","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOAudioControlSubType"},"attr":{"id":"52806","ColType":"Number","ColValue":"1869968496"}}
+]

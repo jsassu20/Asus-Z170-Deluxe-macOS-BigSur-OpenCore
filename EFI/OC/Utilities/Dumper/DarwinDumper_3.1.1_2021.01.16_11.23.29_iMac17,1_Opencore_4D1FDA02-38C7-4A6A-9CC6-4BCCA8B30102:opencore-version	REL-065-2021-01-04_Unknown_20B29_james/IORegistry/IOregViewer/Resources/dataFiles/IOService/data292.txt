@@ -1,0 +1,22 @@
+[
+{"data":{"title":"Transport"},"attr":{"id":"16916","ColType":"String","ColValue":"USB"}},
+{"data":{"title":"BootProtocol"},"attr":{"id":"16918","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"HIDDefaultBehavior"},"attr":{"id":"16920","ColType":"String","ColValue":""}},
+{"data":{"title":"Manufacturer"},"attr":{"id":"16922","ColType":"String","ColValue":"Corsair"}},
+{"data":{"title":"Product"},"attr":{"id":"16924","ColType":"String","ColValue":"Corsair Gaming HARPOON RGB Mouse"}},
+{"data":{"title":"MaxInputReportSize"},"attr":{"id":"16926","ColType":"Number","ColValue":"64"}},
+{"data":{"title":"DeviceUsagePairs"},"attr":{"id":"16928","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"16929","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"DeviceUsagePage"},"attr":{"id":"16931","ColType":"Number","ColValue":"65474"}},{"data":{"title":"DeviceUsage"},"attr":{"id":"16933","ColType":"Number","ColValue":"4"}}]}]},
+{"data":{"title":"MaxOutputReportSize"},"attr":{"id":"16935","ColType":"Number","ColValue":"64"}},
+{"data":{"title":"ReportDescriptor"},"attr":{"id":"16937","ColType":"Data","ColValue":"&lt;06c2ff0904a101150026ff00954075080902b1020902810209049102c0&gt;"}},
+{"data":{"title":"CountryCode"},"attr":{"id":"16939","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"VendorID"},"attr":{"id":"16941","ColType":"Number","ColValue":"6940"}},
+{"data":{"title":"VersionNumber"},"attr":{"id":"16943","ColType":"Number","ColValue":"776"}},
+{"data":{"title":"IOServiceDEXTEntitlements"},"attr":{"id":"16945","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"16946","ColType":"String","ColValue":"com.apple.developer.driverkit.transport.hid"}}]},
+{"data":{"title":"PrimaryUsage"},"attr":{"id":"16948","ColType":"Number","ColValue":"4"}},
+{"data":{"title":"LocationID"},"attr":{"id":"16950","ColType":"Number","ColValue":"340787200"}},
+{"data":{"title":"ProductID"},"attr":{"id":"16952","ColType":"Number","ColValue":"6972"}},
+{"data":{"title":"SerialNumber"},"attr":{"id":"16954","ColType":"String","ColValue":"1803902AAF4B8C435CBBA02AF5001C00"}},
+{"data":{"title":"ReportInterval"},"attr":{"id":"16956","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"PrimaryUsagePage"},"attr":{"id":"16958","ColType":"Number","ColValue":"65474"}},
+{"data":{"title":"MaxFeatureReportSize"},"attr":{"id":"16960","ColType":"Number","ColValue":"64"}}
+]

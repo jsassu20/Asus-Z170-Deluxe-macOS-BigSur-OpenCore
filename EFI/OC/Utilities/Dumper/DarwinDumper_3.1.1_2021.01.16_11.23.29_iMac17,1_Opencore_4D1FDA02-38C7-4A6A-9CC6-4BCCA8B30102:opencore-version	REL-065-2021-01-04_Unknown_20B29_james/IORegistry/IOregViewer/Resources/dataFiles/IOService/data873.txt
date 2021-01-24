@@ -1,0 +1,12 @@
+[
+{"data":{"title":"IOName"},"attr":{"id":"60293","ColType":"String","ColValue":"AppleBSDKextStarterTMPFS"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"60295","ColType":"String","ColValue":"com.apple.driver.AppleBSDKextStarter"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"60297","ColType":"String","ColValue":"com_apple_driver_AppleBSDKextStarterTMPFS"}},
+{"data":{"title":"IOClass"},"attr":{"id":"60299","ColType":"String","ColValue":"AppleBSDKextStarter"}},
+{"data":{"title":"AppleBSDKextStarterBundleIdentifiers"},"attr":{"id":"60301","ColType":"String","ColValue":"com.apple.filesystems.tmpfs"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"60303","ColType":"String","ColValue":"com.apple.driver.AppleBSDKextStarterTMPFS"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"60305","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"60307","ColType":"String","ColValue":"com.apple.driver.AppleBSDKextStarter"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"60309","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"60311","ColType":"String","ColValue":"IOBSD"}}
+]

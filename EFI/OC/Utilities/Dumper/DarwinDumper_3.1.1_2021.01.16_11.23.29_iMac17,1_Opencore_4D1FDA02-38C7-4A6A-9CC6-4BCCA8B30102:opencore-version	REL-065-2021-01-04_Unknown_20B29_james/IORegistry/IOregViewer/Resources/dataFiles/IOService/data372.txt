@@ -1,0 +1,8 @@
+[
+{"data":{"title":"Device Characteristics"},"attr":{"id":"29525","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Product Name"},"attr":{"id":"29527","ColType":"String","ColValue":"SAMSWEET SSD PM863 128GB                "}},{"data":{"title":"Logical Block Size"},"attr":{"id":"29529","ColType":"Number","ColValue":"512"}},{"data":{"title":"Medium Type"},"attr":{"id":"29531","ColType":"String","ColValue":"Solid State"}},{"data":{"title":"Physical Block Size"},"attr":{"id":"29533","ColType":"Number","ColValue":"512"}},{"data":{"title":"SATA Features"},"attr":{"id":"29535","ColType":"Number","ColValue":"47"}},{"data":{"title":"Serial Number"},"attr":{"id":"29537","ColType":"String","ColValue":"AA000000000000001324"}},{"data":{"title":"Product Revision Level"},"attr":{"id":"29539","ColType":"String","ColValue":"R0809B0 "}}]},
+{"data":{"title":"IOMinimumSegmentAlignmentByteCount"},"attr":{"id":"29541","ColType":"Number","ColValue":"4"}},
+{"data":{"title":"device-type"},"attr":{"id":"29543","ColType":"String","ColValue":"Generic"}},
+{"data":{"title":"Protocol Characteristics"},"attr":{"id":"29545","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Physical Interconnect"},"attr":{"id":"29547","ColType":"String","ColValue":"SATA"}},{"data":{"title":"Physical Interconnect Location"},"attr":{"id":"29549","ColType":"String","ColValue":"Internal"}}]},
+{"data":{"title":"SMART Capable"},"attr":{"id":"29551","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOCFPlugInTypes"},"attr":{"id":"29553","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"24514B7A-2804-11D6-8A02-003065704866"},"attr":{"id":"29555","ColType":"String","ColValue":"SMARTLib.plugin"}}]}
+]

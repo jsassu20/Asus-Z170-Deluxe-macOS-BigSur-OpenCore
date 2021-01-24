@@ -1,0 +1,10 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"59853","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"59855","ColType":"String","ColValue":"com.apple.filesystems.hfs.kext"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"59857","ColType":"String","ColValue":"com_apple_filesystems_hfs"}},
+{"data":{"title":"IOClass"},"attr":{"id":"59859","ColType":"String","ColValue":"com_apple_filesystems_hfs"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"59861","ColType":"String","ColValue":"com.apple.filesystems.hfs.kext"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"59863","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"59865","ColType":"String","ColValue":"com.apple.filesystems.hfs.kext"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"59867","ColType":"String","ColValue":"IOBSD"}}
+]

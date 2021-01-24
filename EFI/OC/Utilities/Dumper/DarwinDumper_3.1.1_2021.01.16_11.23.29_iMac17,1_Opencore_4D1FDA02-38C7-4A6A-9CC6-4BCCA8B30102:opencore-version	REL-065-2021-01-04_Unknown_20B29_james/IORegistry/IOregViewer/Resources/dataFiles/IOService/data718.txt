@@ -1,0 +1,5 @@
+[
+{"data":{"title":"name"},"attr":{"id":"55470","ColType":"Data","ColValue":"&lt;\"PNP0C0E\"&gt;"}},
+{"data":{"title":"_STA"},"attr":{"id":"55472","ColType":"Number","ColValue":"11"}},
+{"data":{"title":"DeviceOpenedByEventSystem"},"attr":{"id":"55474","ColType":"Boolean","ColValue":"Yes"}}
+]

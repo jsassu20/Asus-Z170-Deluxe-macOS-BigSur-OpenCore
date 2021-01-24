@@ -1,0 +1,17 @@
+[
+{"data":{"title":"IOCFPlugInTypes"},"attr":{"id":"59611","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"2d9786c6-9ef3-11d4-ad51-000a27052861"},"attr":{"id":"59613","ColType":"String","ColValue":"IOUSBHostFamily.kext/Contents/PlugIns/IOUSBLib.bundle"}}]},
+{"data":{"title":"bcdDevice"},"attr":{"id":"59615","ColType":"Number","ColValue":"336"}},
+{"data":{"title":"idProduct"},"attr":{"id":"59617","ColType":"Number","ColValue":"33421"}},
+{"data":{"title":"bInterfaceSubClass"},"attr":{"id":"59619","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"bConfigurationValue"},"attr":{"id":"59621","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"locationID"},"attr":{"id":"59623","ColType":"Number","ColValue":"350420992"}},
+{"data":{"title":"AppleUSBAlternateServiceRegistryID"},"attr":{"id":"59625","ColType":"Number","ColValue":"4294968453"}},
+{"data":{"title":"IOClassNameOverride"},"attr":{"id":"59627","ColType":"String","ColValue":"IOUSBInterface"}},
+{"data":{"title":"bInterfaceProtocol"},"attr":{"id":"59629","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"iInterface"},"attr":{"id":"59631","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"bAlternateSetting"},"attr":{"id":"59633","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"idVendor"},"attr":{"id":"59635","ColType":"Number","ColValue":"1452"}},
+{"data":{"title":"bInterfaceNumber"},"attr":{"id":"59637","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"bInterfaceClass"},"attr":{"id":"59639","ColType":"Number","ColValue":"224"}},
+{"data":{"title":"bNumEndpoints"},"attr":{"id":"59641","ColType":"Number","ColValue":"2"}}
+]

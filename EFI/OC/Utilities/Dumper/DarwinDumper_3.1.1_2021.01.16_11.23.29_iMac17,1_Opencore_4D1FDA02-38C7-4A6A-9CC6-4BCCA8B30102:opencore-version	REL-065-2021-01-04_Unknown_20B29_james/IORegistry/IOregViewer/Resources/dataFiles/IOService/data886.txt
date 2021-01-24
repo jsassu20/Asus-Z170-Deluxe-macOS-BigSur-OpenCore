@@ -1,0 +1,11 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"60520","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"60522","ColType":"String","ColValue":"com.apple.iokit.IOAVBFamily"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"60524","ColType":"String","ColValue":"IOAVBNub"}},
+{"data":{"title":"IOClass"},"attr":{"id":"60526","ColType":"String","ColValue":"IOAVBNub"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"60528","ColType":"String","ColValue":"com.apple.iokit.IOAVBFamily"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"60530","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"60532","ColType":"String","ColValue":"com.apple.iokit.IOAVBFamily"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"60534","ColType":"String","ColValue":"IOAVBNubUserClient"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"60536","ColType":"String","ColValue":"IOTimeSyncClockManager"}}
+]

@@ -1,0 +1,35 @@
+2021-01-16 11:21:15.71 kernel[0]: (IOHIDFamily) HID: Legacy shim 2
+2021-01-16 11:21:15.71 kernel[0]: (IOHIDFamily) HID: Legacy shim 2
+2021-01-16 11:21:20.50 kernel[0]: (IOHIDFamily) AppleUserUSBHostHIDDevice:0x1000004e6 start (state:0x0)
+2021-01-16 11:21:20.50 kernel[0]: (IOHIDFamily) AppleUserUSBHostHIDDevice:0x100000503 start (state:0x0)
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) AppleUserUSBHostHIDDevice:0x1000004e6 start (state:0x4)
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Element value capacity 1400
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report count: 4
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 0 input:0 output:0 feature:0
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 1 input:80 output:8 feature:8
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 3 input:512 output:8 feature:8
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 14 input:512 output:8 feature:8
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) AppleUserUSBHostHIDDevice:0x100000503 start (state:0x4)
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Element value capacity 102936
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report count: 5
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 0 input:0 output:0 feature:0
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 1 input:168 output:16 feature:8
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 2 input:40 output:8 feature:8
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 3 input:512 output:8 feature:8
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 14 input:512 output:8 feature:8
+2021-01-16 11:21:20.51 kernel[0]: (IOHIDFamily) AppleUserUSBHostHIDDevice:0x1000004de start (state:0x0)
+2021-01-16 11:21:20.52 kernel[0]: (IOHIDFamily) AppleUserUSBHostHIDDevice:0x1000004ea start (state:0x0)
+2021-01-16 11:21:20.52 kernel[0]: (IOHIDFamily) AppleUserUSBHostHIDDevice:0x1000004de start (state:0x4)
+2021-01-16 11:21:20.52 kernel[0]: (IOHIDFamily) [ElementContainer] Element value capacity 384
+2021-01-16 11:21:20.52 kernel[0]: (IOHIDFamily) [ElementContainer] Report count: 1
+2021-01-16 11:21:20.52 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 0 input:512 output:512 feature:512
+2021-01-16 11:21:20.52 kernel[0]: (IOHIDFamily) AppleUserUSBHostHIDDevice:0x1000004ea start (state:0x4)
+2021-01-16 11:21:20.52 kernel[0]: (IOHIDFamily) [ElementContainer] Element value capacity 384
+2021-01-16 11:21:20.52 kernel[0]: (IOHIDFamily) [ElementContainer] Report count: 1
+2021-01-16 11:21:20.52 kernel[0]: (IOHIDFamily) [ElementContainer] Report ID: 0 input:512 output:512 feature:512
+2021-01-16 11:21:20.53 kernel[0]: (IOHIDFamily) AppleUserHIDEventDriver:0x10000053a start (state:0x0)
+2021-01-16 11:21:20.53 kernel[0]: (IOHIDFamily) AppleUserHIDEventDriver:0x10000053a start (state:0x4)
+2021-01-16 11:21:20.53 kernel[0]: (IOHIDFamily) HID: Legacy shim 2
+2021-01-16 11:21:20.53 kernel[0]: (IOHIDFamily) AppleUserHIDEventDriver:0x100000540 start (state:0x0)
+2021-01-16 11:21:20.54 kernel[0]: (IOHIDFamily) AppleUserHIDEventDriver:0x100000540 start (state:0x4)
+2021-01-16 11:21:20.54 kernel[0]: (IOHIDFamily) HID: Legacy shim 2

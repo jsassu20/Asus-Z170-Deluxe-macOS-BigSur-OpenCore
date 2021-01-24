@@ -1,0 +1,7 @@
+[
+{"data":{"title":"_STA"},"attr":{"id":"54829","ColType":"Number","ColValue":"18446744073709551615"}},
+{"data":{"title":"IODeviceMemory"},"attr":{"id":"54831","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"54832","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"54833","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"address"},"attr":{"id":"54835","ColType":"Number","ColValue":"656"}},{"data":{"title":"length"},"attr":{"id":"54837","ColType":"Number","ColValue":"16"}}]}]}]},
+{"data":{"title":"_UID"},"attr":{"id":"54839","ColType":"String","ColValue":"0"}},
+{"data":{"title":"name"},"attr":{"id":"54841","ColType":"Data","ColValue":"&lt;\"PNP0C02\"&gt;"}},
+{"data":{"title":"acpi-wake-gpe"},"attr":{"id":"54843","ColType":"Number","ColValue":"29"}}
+]

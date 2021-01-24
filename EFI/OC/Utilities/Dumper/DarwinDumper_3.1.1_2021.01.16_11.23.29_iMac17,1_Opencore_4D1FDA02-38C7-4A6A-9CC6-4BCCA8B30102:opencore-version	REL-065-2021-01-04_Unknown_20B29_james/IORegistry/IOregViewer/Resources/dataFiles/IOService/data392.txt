@@ -1,0 +1,4 @@
+[
+{"data":{"title":"Required Bandwidth Allocated"},"attr":{"id":"30341","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"Maximum Bandwidth Allocated"},"attr":{"id":"30343","ColType":"Number","ColValue":"0"}}
+]

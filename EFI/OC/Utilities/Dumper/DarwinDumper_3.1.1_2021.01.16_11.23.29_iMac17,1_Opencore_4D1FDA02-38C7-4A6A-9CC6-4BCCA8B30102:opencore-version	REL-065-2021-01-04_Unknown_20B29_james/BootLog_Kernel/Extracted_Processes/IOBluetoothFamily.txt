@@ -1,0 +1,3 @@
+2021-01-16 11:21:15.45 kernel[0]: (IOBluetoothFamily) [IOBluetoothFamily][start] -- completed
+2021-01-16 11:21:17.67 kernel[0]: (IOBluetoothFamily) **** [IOBluetoothHostController][RequestPowerStateChangeFromUserSpace] -- ON -> ON (thread: 0x4bf0)
+2021-01-16 11:21:17.67 kernel[0]: (IOBluetoothFamily) **** [IOBluetoothHostController][RequestPowerStateChangeFromUserSpace] -- ON -> ON (thread: 0x4bf0) -- returning 0x0000 (kIOReturnSuccess)

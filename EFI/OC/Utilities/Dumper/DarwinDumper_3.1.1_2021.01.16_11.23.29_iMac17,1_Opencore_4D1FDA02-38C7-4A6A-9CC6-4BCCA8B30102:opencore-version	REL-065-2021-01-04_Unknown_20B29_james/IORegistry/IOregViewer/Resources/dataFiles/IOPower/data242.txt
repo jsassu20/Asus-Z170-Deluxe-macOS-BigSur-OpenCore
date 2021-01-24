@@ -1,0 +1,12 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"31952","ColType":"Number","ColValue":"18446744073709551516"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"31954","ColType":"String","ColValue":"com.apple.iokit.IOPCIFamily"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"31956","ColType":"String","ColValue":"IOPCIDevice"}},
+{"data":{"title":"IOClass"},"attr":{"id":"31958","ColType":"String","ColValue":"IOPCI2PCIBridge"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"31960","ColType":"String","ColValue":"com.apple.iokit.IOPCIFamily"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"31962","ColType":"String","ColValue":"com.apple.iokit.IOPCIFamily"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"31964","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IONameMatch"},"attr":{"id":"31966","ColType":"String","ColValue":"pci-bridge"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"31968","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CapabilityFlags"},"attr":{"id":"31970","ColType":"Number","ColValue":"258"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"31972","ColType":"Number","ColValue":"3"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"31974","ColType":"Number","ColValue":"2"}}]},
+{"data":{"title":"IONameMatched"},"attr":{"id":"31976","ColType":"String","ColValue":"pci-bridge"}}
+]

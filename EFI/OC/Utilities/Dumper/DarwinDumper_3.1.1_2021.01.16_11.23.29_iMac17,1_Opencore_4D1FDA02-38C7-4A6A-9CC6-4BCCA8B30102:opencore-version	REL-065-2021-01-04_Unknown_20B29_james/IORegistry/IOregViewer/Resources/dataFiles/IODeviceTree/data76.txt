@@ -1,0 +1,5 @@
+[
+{"data":{"title":"_UID"},"attr":{"id":"4830","ColType":"String","ColValue":"5"}},
+{"data":{"title":"_STA"},"attr":{"id":"4832","ColType":"Number","ColValue":"3"}},
+{"data":{"title":"name"},"attr":{"id":"4834","ColType":"Data","ColValue":"&lt;\"PNP0C02\"&gt;"}}
+]

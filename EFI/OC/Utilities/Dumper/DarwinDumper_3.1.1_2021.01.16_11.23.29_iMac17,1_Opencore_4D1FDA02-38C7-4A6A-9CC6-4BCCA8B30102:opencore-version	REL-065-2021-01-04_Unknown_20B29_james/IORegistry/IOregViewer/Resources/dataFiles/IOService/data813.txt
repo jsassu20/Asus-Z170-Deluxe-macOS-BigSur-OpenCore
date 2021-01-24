@@ -1,0 +1,16 @@
+[
+{"data":{"title":"IOClass"},"attr":{"id":"59007","ColType":"String","ColValue":"AppleUSBHostResources"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"59009","ColType":"String","ColValue":"com.apple.iokit.IOUSBHostFamily"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"59011","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"kUSBSleepPortCurrentLimit"},"attr":{"id":"59013","ColType":"Number","ColValue":"2100"}},
+{"data":{"title":"kUSBWakePowerSupply"},"attr":{"id":"59015","ColType":"Number","ColValue":"5100"}},
+{"data":{"title":"kUSBWakePortCurrentLimit"},"attr":{"id":"59017","ColType":"Number","ColValue":"2100"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"59019","ColType":"String","ColValue":"IORTC"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"59021","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOGeneralInterest"},"attr":{"id":"59023","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"59025","ColType":"String","ColValue":"AppleUSBHostResources"}},
+{"data":{"title":"kUSBSleepPowerSupply"},"attr":{"id":"59027","ColType":"Number","ColValue":"5100"}},
+{"data":{"title":"UsbBusCurrentPoolID"},"attr":{"id":"59029","ColType":"Number","ColValue":"4294967974"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"59031","ColType":"String","ColValue":"com.apple.iokit.IOUSBHostFamily"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"59033","ColType":"String","ColValue":"com.apple.iokit.IOUSBHostFamily"}}
+]

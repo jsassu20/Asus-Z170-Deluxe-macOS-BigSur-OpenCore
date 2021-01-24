@@ -1,0 +1,23 @@
+[
+{"data":{"title":"IOClass"},"attr":{"id":"29483","ColType":"String","ColValue":"AppleAHCIDiskDriver"}},
+{"data":{"title":"IOPolledInterface"},"attr":{"id":"29485","ColType":"String","ColValue":"AppleAHCIDiskPolledInterface is not serializable"}},
+{"data":{"title":"Logical Block Size"},"attr":{"id":"29487","ColType":"Number","ColValue":"512"}},
+{"data":{"title":"IOMaximumBlockCountWrite"},"attr":{"id":"29489","ColType":"Number","ColValue":"65536"}},
+{"data":{"title":"IOPlatformPanicAction"},"attr":{"id":"29491","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"29493","ColType":"String","ColValue":"com.apple.iokit.IOAHCIBlockStorage"}},
+{"data":{"title":"Trace ID"},"attr":{"id":"29495","ColType":"Number","ColValue":"1507344"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"29497","ColType":"String","ColValue":"IOAHCIDevice"}},
+{"data":{"title":"Physical Interconnect Location"},"attr":{"id":"29499","ColType":"String","ColValue":"Internal"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"29501","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"Queue Depth"},"attr":{"id":"29503","ColType":"Number","ColValue":"32"}},
+{"data":{"title":"SATA Features"},"attr":{"id":"29505","ColType":"Number","ColValue":"47"}},
+{"data":{"title":"Serial Number"},"attr":{"id":"29507","ColType":"String","ColValue":"AA000000000000001324"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"29509","ColType":"String","ColValue":"com.apple.iokit.IOAHCIBlockStorage"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"29511","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"29513","ColType":"String","ColValue":"com.apple.iokit.IOAHCIBlockStorage"}},
+{"data":{"title":"Model"},"attr":{"id":"29515","ColType":"String","ColValue":"SAMSWEET SSD PM863 128GB                "}},
+{"data":{"title":"Revision"},"attr":{"id":"29517","ColType":"String","ColValue":"R0809B0 "}},
+{"data":{"title":"IOMaximumBlockCountRead"},"attr":{"id":"29519","ColType":"Number","ColValue":"65536"}},
+{"data":{"title":"Physical Block Size"},"attr":{"id":"29521","ColType":"Number","ColValue":"512"}},
+{"data":{"title":"NCQ"},"attr":{"id":"29523","ColType":"Boolean","ColValue":"Yes"}}
+]

@@ -1,0 +1,21 @@
+[
+{"data":{"title":"name"},"attr":{"id":"10456","ColType":"Data","ColValue":"&lt;\"pci8086,a121\"&gt;"}},
+{"data":{"title":"subsystem-vendor-id"},"attr":{"id":"10458","ColType":"Data","ColValue":"&lt;43100000&gt;"}},
+{"data":{"title":"compatible"},"attr":{"id":"10460","ColType":"Data","ColValue":"&lt;\"pci1043,8694\",\"pci8086,a121\",\"pciclass,058000\",\"PPMC\"&gt;"}},
+{"data":{"title":"IOName"},"attr":{"id":"10462","ColType":"String","ColValue":"pci8086,a121"}},
+{"data":{"title":"reg"},"attr":{"id":"10464","ColType":"Data","ColValue":"&lt;00fa00000000000000000000000000000000000010fa000200000000000000000000000000400000&gt;"}},
+{"data":{"title":"assigned-addresses"},"attr":{"id":"10466","ColType":"Data","ColValue":"&lt;10fa0082000000000000e2de0000000000400000&gt;"}},
+{"data":{"title":"device-id"},"attr":{"id":"10468","ColType":"Data","ColValue":"&lt;21a10000&gt;"}},
+{"data":{"title":"IOServiceDEXTEntitlements"},"attr":{"id":"10470","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"10471","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"10472","ColType":"String","ColValue":"com.apple.developer.driverkit.transport.pci"}}]}]},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"10474","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"ChildrenPowerState"},"attr":{"id":"10476","ColType":"Number","ColValue":"2"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"10478","ColType":"Number","ColValue":"2"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"10480","ColType":"Number","ColValue":"258"}},{"data":{"title":"ChildProxyPowerState"},"attr":{"id":"10482","ColType":"Number","ColValue":"2"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"10484","ColType":"Number","ColValue":"3"}}]},
+{"data":{"title":"built-in"},"attr":{"id":"10486","ColType":"Data","ColValue":"&lt;00&gt;"}},
+{"data":{"title":"revision-id"},"attr":{"id":"10488","ColType":"Data","ColValue":"&lt;31000000&gt;"}},
+{"data":{"title":"IOPCIResourced"},"attr":{"id":"10490","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"vendor-id"},"attr":{"id":"10492","ColType":"Data","ColValue":"&lt;86800000&gt;"}},
+{"data":{"title":"pcidebug"},"attr":{"id":"10494","ColType":"String","ColValue":"0:31:2"}},
+{"data":{"title":"class-code"},"attr":{"id":"10496","ColType":"Data","ColValue":"&lt;00800500&gt;"}},
+{"data":{"title":"IODeviceMemory"},"attr":{"id":"10498","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"10499","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"10500","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"address"},"attr":{"id":"10502","ColType":"Number","ColValue":"3739353088"}},{"data":{"title":"length"},"attr":{"id":"10504","ColType":"Number","ColValue":"16384"}}]}]}]},
+{"data":{"title":"acpi-path"},"attr":{"id":"10506","ColType":"String","ColValue":"IOACPIPlane:/_SB/PCI0@0/PPMC@1f0002"}},
+{"data":{"title":"subsystem-id"},"attr":{"id":"10508","ColType":"Data","ColValue":"&lt;94860000&gt;"}},
+{"data":{"title":"acpi-device"},"attr":{"id":"10510","ColType":"String","ColValue":"IOACPIPlatformDevice is not serializable"}}
+]

@@ -1,0 +1,11 @@
+[
+{"data":{"title":"bluetoothInternalControllerInfo"},"attr":{"id":"56232","ColType":"Data","ColValue":"&lt;8d82ac050000e3148863dfba238e&gt;"}},
+{"data":{"title":"prev-lang:kbd"},"attr":{"id":"56234","ColType":"Data","ColValue":"&lt;\"en-US:0\"&gt;"}},
+{"data":{"title":"fmm-computer-name"},"attr":{"id":"56236","ColType":"Data","ColValue":"&lt;\"James’ iMac 5K\"&gt;"}},
+{"data":{"title":"bluetoothActiveControllerInfo"},"attr":{"id":"56238","ColType":"Data","ColValue":"&lt;8d82ac0500000000e3148863dfba238e&gt;"}},
+{"data":{"title":"SystemAudioVolume"},"attr":{"id":"56240","ColType":"Data","ColValue":"&lt;46&gt;"}},
+{"data":{"title":"run-efi-updater"},"attr":{"id":"56242","ColType":"Data","ColValue":"&lt;\"No\"&gt;"}},
+{"data":{"title":"LocationServicesEnabled"},"attr":{"id":"56244","ColType":"Data","ColValue":"&lt;01&gt;"}},
+{"data":{"title":"csr-active-config"},"attr":{"id":"56246","ColType":"Data","ColValue":"&lt;ff0f0000&gt;"}},
+{"data":{"title":"boot-args"},"attr":{"id":"56248","ColType":"String","ColValue":"keepsyms=1 -igfxfw=2 igfxfcms=1 alcid=1"}}
+]

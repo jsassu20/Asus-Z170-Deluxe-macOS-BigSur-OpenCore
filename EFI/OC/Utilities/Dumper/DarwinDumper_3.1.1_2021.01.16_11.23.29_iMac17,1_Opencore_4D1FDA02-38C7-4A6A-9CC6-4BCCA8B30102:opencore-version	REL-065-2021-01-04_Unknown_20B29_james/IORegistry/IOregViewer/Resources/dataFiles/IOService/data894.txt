@@ -1,0 +1,10 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"60682","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"60684","ColType":"String","ColValue":"com.apple.driver.usb.AppleUSBUserHCI"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"60686","ColType":"String","ColValue":"AppleUSBUserHCIResources"}},
+{"data":{"title":"IOClass"},"attr":{"id":"60688","ColType":"String","ColValue":"AppleUSBUserHCIResources"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"60690","ColType":"String","ColValue":"com.apple.driver.usb.AppleUSBUserHCI"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"60692","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"60694","ColType":"String","ColValue":"com.apple.driver.usb.AppleUSBUserHCI"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"60696","ColType":"String","ColValue":"IORTC"}}
+]

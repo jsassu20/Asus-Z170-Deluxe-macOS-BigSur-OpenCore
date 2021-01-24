@@ -1,0 +1,11 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"50886","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"50888","ColType":"String","ColValue":"com.apple.driver.AudioAUUC"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"50890","ColType":"String","ColValue":"AudioAUUCDriver"}},
+{"data":{"title":"IOClass"},"attr":{"id":"50892","ColType":"String","ColValue":"AudioAUUCDriver"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"50894","ColType":"String","ColValue":"com.apple.driver.AudioAUUC"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"50896","ColType":"String","ColValue":"IOAudioEngine"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"50898","ColType":"String","ColValue":"com.apple.driver.AudioAUUC"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"50900","ColType":"String","ColValue":"AudioAUUC"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"50902","ColType":"String","ColValue":"IOKit"}}
+]

@@ -1,0 +1,16 @@
+2021-01-16 11:21:20.05 kernel[0]: (AppleGFXHDA) [0x10001]AppleGFXHDAControler[0]::probe
+2021-01-16 11:21:20.05 kernel[0]: (AppleGFXHDA) [0x10001]AppleGFXHDAController[0]::start
+2021-01-16 11:21:20.18 kernel[0]: (AppleGFXHDA) Sound assertion in AppleGFXHDADriver at line 4838
+2021-01-16 11:21:20.18 kernel[0]: (AppleGFXHDA) Sound assertion in AppleGFXHDAController at line 5085
+2021-01-16 11:21:20.18 kernel[0]: (AppleGFXHDA) [0x10001]AppleGFXHDAController[0]::setPowerState from 0 to 2
+2021-01-16 11:21:20.18 kernel[0]: (AppleGFXHDA) [0x10001]AppleGFXHDAControler[0]::handleOpen
+2021-01-16 11:21:20.18 kernel[0]: (AppleGFXHDA) [0x10001]AppleGFXHDADriver[0]::start
+2021-01-16 11:21:28.38 kernel[0]: (AppleGFXHDA) [0x10001]AppleGFXHDAEngine[0]::start
+2021-01-16 11:21:28.38 kernel[0]: (AppleGFXHDA) [0x10001]+ AppleGFXHDAEngine::startDMAEngine ( 1 )
+2021-01-16 11:21:28.38 kernel[0]: (AppleGFXHDA) [0x10001]Sending kApplePrivateMessageBusy from requestBandwidth
+2021-01-16 11:21:28.40 kernel[0]: (AppleGFXHDA) [0x10001]Sending kApplePrivateMessageBusy from requestBandwidth
+2021-01-16 11:21:28.41 kernel[0]: (AppleGFXHDA) [0x10001]+ AppleGFXHDAEngine::startDMAEngine ( 1 )
+2021-01-16 11:21:28.41 kernel[0]: (AppleGFXHDA) [0x10001]Sending kApplePrivateMessageBusy from requestBandwidth
+2021-01-16 11:21:29.02 kernel[0]: (AppleGFXHDA) [0x10001]Sending kApplePrivateMessageIdle from requestBandwidth
+2021-01-16 11:21:29.83 kernel[0]: (AppleGFXHDA) [0x10001]+ AppleGFXHDAEngine::startDMAEngine ( 1 )
+2021-01-16 11:21:29.83 kernel[0]: (AppleGFXHDA) [0x10001]Sending kApplePrivateMessageBusy from requestBandwidth

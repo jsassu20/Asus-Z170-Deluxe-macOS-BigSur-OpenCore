@@ -1,0 +1,7 @@
+[
+{"data":{"title":"processor-index"},"attr":{"id":"5068","ColType":"Number","ColValue":"5"}},
+{"data":{"title":"processor-id"},"attr":{"id":"5070","ColType":"Number","ColValue":"6"}},
+{"data":{"title":"name"},"attr":{"id":"5072","ColType":"Data","ColValue":"&lt;\"CPU5\"&gt;"}},
+{"data":{"title":"cpu-type"},"attr":{"id":"5074","ColType":"Data","ColValue":"&lt;0506&gt;"}},
+{"data":{"title":"device_type"},"attr":{"id":"5076","ColType":"Data","ColValue":"&lt;\"processor\"&gt;"}}
+]

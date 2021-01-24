@@ -1,0 +1,22 @@
+[
+{"data":{"title":"IOInterruptSpecifiers"},"attr":{"id":"4126","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"4127","ColType":"Data","ColValue":"&lt;0900000005000000&gt;"}}]},
+{"data":{"title":"IOPolledInterface"},"attr":{"id":"4129","ColType":"String","ColValue":"SMCPolledInterface is not serializable"}},
+{"data":{"title":"IOPlatformUUID"},"attr":{"id":"4131","ColType":"String","ColValue":"C59BFD6C-C163-5D1E-930C-C02D34E02D8B"}},
+{"data":{"title":"serial-number"},"attr":{"id":"4133","ColType":"Data","ColValue":"&lt;4747374c00000000000000000043303254524659524747374c000000000000000000000000000000000000&gt;"}},
+{"data":{"title":"platform-feature"},"attr":{"id":"4135","ColType":"Data","ColValue":"&lt;0000000000000000&gt;"}},
+{"data":{"title":"IOBusyInterest"},"attr":{"id":"4137","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"target-type"},"attr":{"id":"4139","ColType":"Data","ColValue":"&lt;\"Mac\"&gt;"}},
+{"data":{"title":"IOInterruptControllers"},"attr":{"id":"4141","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"4142","ColType":"String","ColValue":"io-apic-0"}}]},
+{"data":{"title":"name"},"attr":{"id":"4144","ColType":"Data","ColValue":"&lt;\"/\"&gt;"}},
+{"data":{"title":"version"},"attr":{"id":"4146","ColType":"Data","ColValue":"&lt;\"1.0\"&gt;"}},
+{"data":{"title":"manufacturer"},"attr":{"id":"4148","ColType":"Data","ColValue":"&lt;\"Acidanthera\"&gt;"}},
+{"data":{"title":"compatible"},"attr":{"id":"4150","ColType":"Data","ColValue":"&lt;\"iMac17,1\"&gt;"}},
+{"data":{"title":"product-name"},"attr":{"id":"4152","ColType":"Data","ColValue":"&lt;\"iMac17,1\"&gt;"}},
+{"data":{"title":"IOPlatformSerialNumber"},"attr":{"id":"4154","ColType":"String","ColValue":"C02TRFYRGG7L"}},
+{"data":{"title":"IOConsoleSecurityInterest"},"attr":{"id":"4156","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"clock-frequency"},"attr":{"id":"4158","ColType":"Data","ColValue":"&lt;0084d717&gt;"}},
+{"data":{"title":"model"},"attr":{"id":"4160","ColType":"Data","ColValue":"&lt;\"iMac17,1\"&gt;"}},
+{"data":{"title":"board-id"},"attr":{"id":"4162","ColType":"Data","ColValue":"&lt;\"Mac-DB15BD556843C820\"&gt;"}},
+{"data":{"title":"IOGeneralInterest"},"attr":{"id":"4164","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"system-type"},"attr":{"id":"4166","ColType":"Data","ColValue":"&lt;01&gt;"}}
+]

@@ -1,0 +1,5 @@
+[
+{"data":{"title":"device-properties"},"attr":{"id":"4574","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"acpi-path"},"attr":{"id":"4576","ColType":"String","ColValue":"IOACPIPlane:/_SB/PCI0@0/PEG1@10001/ANS1@0"}},{"data":{"title":"acpi-device"},"attr":{"id":"4578","ColType":"String","ColValue":"IOACPIPlatformDevice is not serializable"}},{"data":{"title":"model"},"attr":{"id":"4580","ColType":"Data","ColValue":"&lt;\"WD Black SN750 M.2 NVME 3D PCIe Solid State Drive\"&gt;"}},{"data":{"title":"name"},"attr":{"id":"4582","ColType":"Data","ColValue":"&lt;\"Apple NVME SSD Controller\"&gt;"}},{"data":{"title":"AAPL,slot-name"},"attr":{"id":"4584","ColType":"Data","ColValue":"&lt;\"Built In\"&gt;"}},{"data":{"title":"built-in"},"attr":{"id":"4586","ColType":"Data","ColValue":"&lt;00&gt;"}}]},
+{"data":{"title":"_STA"},"attr":{"id":"4588","ColType":"Number","ColValue":"18446744073709551615"}},
+{"data":{"title":"_ADR"},"attr":{"id":"4590","ColType":"Number","ColValue":"0"}}
+]

@@ -1,0 +1,9 @@
+[
+{"data":{"title":"IOInterfaceNamePrefix"},"attr":{"id":"43748","ColType":"String","ColValue":"llw"}},
+{"data":{"title":"IOMACAddress"},"attr":{"id":"43750","ColType":"Data","ColValue":"&lt;9a227b41e612&gt;"}},
+{"data":{"title":"IO80211InterfaceRole"},"attr":{"id":"43752","ColType":"String","ColValue":"LowLatency"}},
+{"data":{"title":"IOInterfaceUnit"},"attr":{"id":"43754","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"43756","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CapabilityFlags"},"attr":{"id":"43758","ColType":"Number","ColValue":"0"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"43760","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"IOInterfaceType"},"attr":{"id":"43762","ColType":"Number","ColValue":"6"}},
+{"data":{"title":"BSD Name"},"attr":{"id":"43764","ColType":"String","ColValue":"llw0"}}
+]

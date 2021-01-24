@@ -1,0 +1,10 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"59837","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"59839","ColType":"String","ColValue":"com.apple.BootCache"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"59841","ColType":"String","ColValue":"com_apple_BootCache"}},
+{"data":{"title":"IOClass"},"attr":{"id":"59843","ColType":"String","ColValue":"com_apple_BootCache"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"59845","ColType":"String","ColValue":"com.apple.BootCache"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"59847","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"59849","ColType":"String","ColValue":"com.apple.BootCache"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"59851","ColType":"String","ColValue":"IOBSD"}}
+]

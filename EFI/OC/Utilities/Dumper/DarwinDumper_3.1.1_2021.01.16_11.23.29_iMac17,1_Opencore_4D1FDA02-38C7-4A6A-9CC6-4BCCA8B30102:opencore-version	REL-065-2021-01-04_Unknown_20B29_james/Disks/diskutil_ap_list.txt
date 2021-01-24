@@ -1,0 +1,63 @@
+APFS Container (1 found)
+|
++-- Container disk4 84E20270-3363-42BD-8CCA-01AA1E282343
+    ====================================================
+    APFS Container Reference:     disk4
+    Size (Capacity Ceiling):      499898105856 B (499.9 GB)
+    Capacity In Use By Volumes:   42465271808 B (42.5 GB) (8.5% used)
+    Capacity Not Allocated:       457432834048 B (457.4 GB) (91.5% free)
+    |
+    +-< Physical Store disk0s2 5ADEEC34-E717-45C2-AA7D-B5F88BA5B19F
+    |   -----------------------------------------------------------
+    |   APFS Physical Store Disk:   disk0s2
+    |   Size:                       499898105856 B (499.9 GB)
+    |
+    +-> Volume disk4s1 BF9EC063-5820-4F1E-B63C-29E63C8A5201
+    |   ---------------------------------------------------
+    |   APFS Volume Disk (Role):   disk4s1 (Data)
+    |   Name:                      Macintosh HD - Data (Case-insensitive)
+    |   Mount Point:               /System/Volumes/Data
+    |   Capacity Consumed:         26426146816 B (26.4 GB)
+    |   Sealed:                    No
+    |   FileVault:                 No
+    |
+    +-> Volume disk4s2 8A58A981-C663-4F04-8D0B-562C334C6284
+    |   ---------------------------------------------------
+    |   APFS Volume Disk (Role):   disk4s2 (Preboot)
+    |   Name:                      Preboot (Case-insensitive)
+    |   Mount Point:               /System/Volumes/Preboot
+    |   Capacity Consumed:         282361856 B (282.4 MB)
+    |   Sealed:                    No
+    |   FileVault:                 No
+    |
+    +-> Volume disk4s3 7426F314-0218-4B1B-BD42-1A9131BC56DE
+    |   ---------------------------------------------------
+    |   APFS Volume Disk (Role):   disk4s3 (Recovery)
+    |   Name:                      Recovery (Case-insensitive)
+    |   Mount Point:               Not Mounted
+    |   Capacity Consumed:         652582912 B (652.6 MB)
+    |   Sealed:                    No
+    |   FileVault:                 No
+    |
+    +-> Volume disk4s4 662F5070-FD04-482F-9801-F5A04C482384
+    |   ---------------------------------------------------
+    |   APFS Volume Disk (Role):   disk4s4 (VM)
+    |   Name:                      VM (Case-insensitive)
+    |   Mount Point:               /System/Volumes/VM
+    |   Capacity Consumed:         1069056 B (1.1 MB)
+    |   Sealed:                    No
+    |   FileVault:                 No
+    |
+    +-> Volume disk4s5 9CE19240-876E-44C9-B7E2-700723CDFF8D
+        ---------------------------------------------------
+        APFS Volume Disk (Role):   disk4s5 (System)
+        Name:                      Macintosh HD (Case-insensitive)
+        Mount Point:               Not Mounted
+        Capacity Consumed:         14940741632 B (14.9 GB)
+        Sealed:                    Broken
+        FileVault:                 No
+        |
+        Snapshot:                  F95F0ECB-E7CB-4BD4-B262-0E91AAEF89F6
+        Snapshot Disk:             disk4s5s1
+        Snapshot Mount Point:      /
+        Snapshot Sealed:           Yes

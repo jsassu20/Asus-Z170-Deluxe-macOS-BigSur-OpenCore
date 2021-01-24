@@ -1,0 +1,5 @@
+[
+{"data":{"title":"IOAudioEngineUserClientActive"},"attr":{"id":"54291","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOUserClientCreator"},"attr":{"id":"54293","ColType":"String","ColValue":"pid 208, coreaudiod"}},
+{"data":{"title":"IOUserClientDefaultLocking"},"attr":{"id":"54295","ColType":"Boolean","ColValue":"Yes"}}
+]

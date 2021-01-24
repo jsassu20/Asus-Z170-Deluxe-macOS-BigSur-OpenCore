@@ -1,0 +1,12 @@
+[
+{"data":{"title":"SystemSerialNumber"},"attr":{"id":"4300","ColType":"Data","ColValue":"&lt;430030003200540052004600590052004700470037004c000000&gt;"}},
+{"data":{"title":"system-id"},"attr":{"id":"4302","ColType":"Data","ColValue":"&lt;3939b96999434abeb042c8613d09e973&gt;"}},
+{"data":{"title":"StartupPowerEvents"},"attr":{"id":"4304","ColType":"Data","ColValue":"&lt;0000000000000000&gt;"}},
+{"data":{"title":"InitialTSC"},"attr":{"id":"4306","ColType":"Data","ColValue":"&lt;0000000000000000&gt;"}},
+{"data":{"title":"IOCompatibilityProperties"},"attr":{"id":"4308","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"IOClass"},"attr":{"id":"4310","ColType":"String","ColValue":"IOService"}},{"data":{"title":"IOName"},"attr":{"id":"4312","ColType":"String","ColValue":"platform"}},{"data":{"title":"IOPath"},"attr":{"id":"4314","ColType":"String","ColValue":"IODeviceTree:/efi/platform"}},{"data":{"title":"system-id"},"attr":{"id":"4316","ColType":"Data","ColValue":"&lt;dc31d7e0351aea58b1b44cfc314aa1e6&gt;"}}]},
+{"data":{"title":"FSBFrequency"},"attr":{"id":"4318","ColType":"Data","ColValue":"&lt;7010f20500000000&gt;"}},
+{"data":{"title":"Model"},"attr":{"id":"4320","ColType":"Data","ColValue":"&lt;69004d0061006300310037002c0031000000&gt;"}},
+{"data":{"title":"board-id"},"attr":{"id":"4322","ColType":"Data","ColValue":"&lt;\"Mac-DB15BD556843C820\"&gt;"}},
+{"data":{"title":"name"},"attr":{"id":"4324","ColType":"Data","ColValue":"&lt;\"platform\"&gt;"}},
+{"data":{"title":"DevicePathsSupported"},"attr":{"id":"4326","ColType":"Data","ColValue":"&lt;01000000&gt;"}}
+]

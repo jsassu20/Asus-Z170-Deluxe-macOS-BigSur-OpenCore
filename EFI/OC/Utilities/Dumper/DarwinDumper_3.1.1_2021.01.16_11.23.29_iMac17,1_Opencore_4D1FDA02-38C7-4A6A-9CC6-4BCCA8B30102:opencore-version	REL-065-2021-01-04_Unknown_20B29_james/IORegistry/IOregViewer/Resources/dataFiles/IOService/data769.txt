@@ -1,0 +1,11 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"56671","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"56673","ColType":"String","ColValue":"com.apple.iokit.EndpointSecurity"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"56675","ColType":"String","ColValue":"EndpointSecurityDriver"}},
+{"data":{"title":"IOClass"},"attr":{"id":"56677","ColType":"String","ColValue":"EndpointSecurityDriver"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"56679","ColType":"String","ColValue":"com.apple.iokit.EndpointSecurity"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"56681","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"56683","ColType":"String","ColValue":"com.apple.iokit.EndpointSecurity"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"56685","ColType":"String","ColValue":"EndpointSecurityDriverClient"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"56687","ColType":"String","ColValue":"IOKit"}}
+]

@@ -1,0 +1,11 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"60486","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"60488","ColType":"String","ColValue":"com.apple.driver.AppleHV"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"60490","ColType":"String","ColValue":"AppleHV"}},
+{"data":{"title":"IOClass"},"attr":{"id":"60492","ColType":"String","ColValue":"AppleHV"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"60494","ColType":"String","ColValue":"com.apple.driver.AppleHV"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"60496","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"60498","ColType":"String","ColValue":"com.apple.driver.AppleHV"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"60500","ColType":"String","ColValue":"AppleHVClient"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"60502","ColType":"String","ColValue":"IOKit"}}
+]

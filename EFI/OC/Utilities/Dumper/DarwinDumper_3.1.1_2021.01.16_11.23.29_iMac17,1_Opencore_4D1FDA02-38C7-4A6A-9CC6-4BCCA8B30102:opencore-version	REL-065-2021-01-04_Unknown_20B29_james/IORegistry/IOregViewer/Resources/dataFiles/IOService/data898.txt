@@ -1,0 +1,12 @@
+[
+{"data":{"title":"IOPropertyMatch"},"attr":{"id":"62243","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"AMDRadeonLoadSvcMgr"},"attr":{"id":"62245","ColType":"Boolean","ColValue":"Yes"}}]},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"62247","ColType":"String","ColValue":"com.apple.kext.AMDRadeonServiceManager"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"62249","ColType":"String","ColValue":"AMDRadeonServiceManager"}},
+{"data":{"title":"IOClass"},"attr":{"id":"62251","ColType":"String","ColValue":"AMDRadeonServiceManager"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"62253","ColType":"String","ColValue":"com.apple.kext.AMDRadeonServiceManager"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"62255","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"62257","ColType":"String","ColValue":"com.apple.kext.AMDRadeonServiceManager"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"62259","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOSourceVersion"},"attr":{"id":"62261","ColType":"String","ColValue":"4.0.47"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"62263","ColType":"String","ColValue":"IOKit"}}
+]

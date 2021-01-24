@@ -1,0 +1,36 @@
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Ring Size: 32 KB
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Ring Size: 32 KB
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Graphics Scheduler Preemption Enabled!
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Graphics Scheduler Preemption Enabled!
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Setting preemptionDelayIntervalUS to 400 microseconds
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Setting preemptionDelayIntervalUS to 400 microseconds
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Setting preemptionTimerIntervalUS to 2000 microseconds
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Setting preemptionTimerIntervalUS to 2000 microseconds
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Will NOT fallback to host-side scheduling if graphics firmware fails to load
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Will NOT fallback to host-side scheduling if graphics firmware fails to load
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Tail Coalescing Enabled.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Tail Coalescing Enabled.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Page Fault Handling Enabled.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Page Fault Handling Enabled.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Single Channel Index Disabled
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Single Channel Index Disabled
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Channel Wait For Complete Disabled
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Channel Wait For Complete Disabled
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler: Process CSB using HWS.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler: Process CSB using HWS.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler: PM notify enabled
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler: PM notify enabled
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Forced to use Host Preemptive Scheduler
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Forced to use Host Preemptive Scheduler
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Graphics Address: PPGTT, Separate Address Space
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Graphics Address: PPGTT, Separate Address Space
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] MultiForceWake Enabled: Using 3D Driver
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] MultiForceWake Enabled: Using 3D Driver
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Render Compression Enabled.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Render Compression Enabled.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Render Compression for IOSurface is Enabled.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Render Compression for IOSurface is Enabled.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Throttle Cap = 100ms.
+2021-01-16 11:21:20.52 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Scheduler Throttle Cap = 100ms.
+2021-01-16 11:21:20.53 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Graphics accelerator is using scheduler: Host Preemptive
+2021-01-16 11:21:20.53 kernel[0]: (AppleIntelSKLGraphics) [IGPU] Graphics accelerator is using scheduler: Host Preemptive

@@ -1,0 +1,11 @@
+[
+{"data":{"title":"IOPropertyMatch"},"attr":{"id":"45996","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"device-type"},"attr":{"id":"45998","ColType":"String","ColValue":"Generic"}}]},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"46000","ColType":"String","ColValue":"com.apple.iokit.IOStorageFamily"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"46002","ColType":"String","ColValue":"IOBlockStorageDevice"}},
+{"data":{"title":"IOClass"},"attr":{"id":"46004","ColType":"String","ColValue":"IOBlockStorageDriver"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"46006","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"46008","ColType":"String","ColValue":"com.apple.iokit.IOStorageFamily"}},
+{"data":{"title":"Statistics"},"attr":{"id":"46010","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Operations (Write)"},"attr":{"id":"46012","ColType":"Number","ColValue":"37732"}},{"data":{"title":"Latency Time (Write)"},"attr":{"id":"46014","ColType":"Number","ColValue":"0"}},{"data":{"title":"Bytes (Read)"},"attr":{"id":"46016","ColType":"Number","ColValue":"2780855808"}},{"data":{"title":"Errors (Write)"},"attr":{"id":"46018","ColType":"Number","ColValue":"0"}},{"data":{"title":"Total Time (Read)"},"attr":{"id":"46020","ColType":"Number","ColValue":"38356572217"}},{"data":{"title":"Latency Time (Read)"},"attr":{"id":"46022","ColType":"Number","ColValue":"0"}},{"data":{"title":"Retries (Read)"},"attr":{"id":"46024","ColType":"Number","ColValue":"0"}},{"data":{"title":"Errors (Read)"},"attr":{"id":"46026","ColType":"Number","ColValue":"0"}},{"data":{"title":"Total Time (Write)"},"attr":{"id":"46028","ColType":"Number","ColValue":"1697269331"}},{"data":{"title":"Bytes (Write)"},"attr":{"id":"46030","ColType":"Number","ColValue":"821061120"}},{"data":{"title":"Operations (Read)"},"attr":{"id":"46032","ColType":"Number","ColValue":"224807"}},{"data":{"title":"Retries (Write)"},"attr":{"id":"46034","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"46036","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IOGeneralInterest"},"attr":{"id":"46038","ColType":"String","ColValue":"IOCommand is not serializable"}}
+]

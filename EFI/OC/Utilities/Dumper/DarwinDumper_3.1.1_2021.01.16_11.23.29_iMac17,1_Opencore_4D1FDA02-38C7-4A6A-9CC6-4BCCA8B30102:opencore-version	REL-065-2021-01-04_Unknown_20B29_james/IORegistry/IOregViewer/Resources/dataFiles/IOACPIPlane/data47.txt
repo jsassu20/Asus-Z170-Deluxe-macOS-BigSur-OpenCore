@@ -1,0 +1,6 @@
+[
+{"data":{"title":"_STA"},"attr":{"id":"4980","ColType":"Number","ColValue":"15"}},
+{"data":{"title":"IODeviceMemory"},"attr":{"id":"4982","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"4983","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"4984","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"address"},"attr":{"id":"4986","ColType":"Number","ColValue":"6228"}},{"data":{"title":"length"},"attr":{"id":"4988","ColType":"Number","ColValue":"4"}}]}]}]},
+{"data":{"title":"name"},"attr":{"id":"4990","ColType":"Data","ColValue":"&lt;\"INT3F0D\"&gt;"}},
+{"data":{"title":"compatible"},"attr":{"id":"4992","ColType":"Data","ColValue":"&lt;\"PNP0C02\"&gt;"}}
+]

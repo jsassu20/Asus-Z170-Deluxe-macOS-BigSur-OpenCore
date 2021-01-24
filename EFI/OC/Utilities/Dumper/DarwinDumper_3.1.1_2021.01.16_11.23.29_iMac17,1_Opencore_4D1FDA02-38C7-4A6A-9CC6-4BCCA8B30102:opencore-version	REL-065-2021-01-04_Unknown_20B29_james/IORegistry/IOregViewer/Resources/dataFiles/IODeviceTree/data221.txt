@@ -1,0 +1,8 @@
+[
+{"data":{"title":"_STA"},"attr":{"id":"10386","ColType":"Number","ColValue":"18446744073709551615"}},
+{"data":{"title":"IODeviceMemory"},"attr":{"id":"10388","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"10389","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"10390","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"address"},"attr":{"id":"10392","ColType":"Number","ColValue":"112"}},{"data":{"title":"length"},"attr":{"id":"10394","ColType":"Number","ColValue":"8"}}]}]}]},
+{"data":{"title":"name"},"attr":{"id":"10396","ColType":"Data","ColValue":"&lt;\"PNP0B00\"&gt;"}},
+{"data":{"title":"acpi-wake-type"},"attr":{"id":"10398","ColType":"Number","ColValue":"4"}},
+{"data":{"title":"IOInterruptControllers"},"attr":{"id":"10400","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"10401","ColType":"String","ColValue":"io-apic-0"}},{"data":{"title":"1"},"attr":{"id":"10402","ColType":"String","ColValue":"ACPIEventController"}}]},
+{"data":{"title":"IOInterruptSpecifiers"},"attr":{"id":"10404","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"10405","ColType":"Data","ColValue":"&lt;0800000000000000&gt;"}},{"data":{"title":"1"},"attr":{"id":"10406","ColType":"Data","ColValue":"&lt;0400000000000000&gt;"}}]}
+]

@@ -1,0 +1,14 @@
+[
+{"data":{"title":"IOClass"},"attr":{"id":"5696","ColType":"String","ColValue":"AMD9500ControllerWrangler"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"5698","ColType":"String","ColValue":"com.apple.kext.AMD9500Controller"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"5700","ColType":"String","ColValue":"IOPCIDevice"}},
+{"data":{"title":"IOPCITunnelCompatible"},"attr":{"id":"5702","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"5704","ColType":"String","ColValue":"AppleGraphicsDeviceControlClient"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"5706","ColType":"Number","ColValue":"65050"}},
+{"data":{"title":"IOPCIMatch"},"attr":{"id":"5708","ColType":"String","ColValue":"0x67E01002 0x67E31002 0x67E81002 0x67EB1002 0x67EF1002 0x67FF1002 0x67E11002 0x67E71002 0x67E91002 0x67C01002 0x67C11002 0x67C21002 0x67C41002 0x67C71002 0x67DF1002 0x67D01002 0x67C81002 0x67C91002 0x67CA1002 0x67CC1002 0x67CF1002"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"5710","ColType":"String","ColValue":"IOFramebuffer"}},
+{"data":{"title":"iofb_version"},"attr":{"id":"5712","ColType":"String","ColValue":"1.1.50"}},
+{"data":{"title":"NeedsPolicyDriver"},"attr":{"id":"5714","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"5716","ColType":"String","ColValue":"com.apple.kext.AMD9500Controller"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"5718","ColType":"String","ColValue":"com.apple.kext.AMD9500Controller"}}
+]

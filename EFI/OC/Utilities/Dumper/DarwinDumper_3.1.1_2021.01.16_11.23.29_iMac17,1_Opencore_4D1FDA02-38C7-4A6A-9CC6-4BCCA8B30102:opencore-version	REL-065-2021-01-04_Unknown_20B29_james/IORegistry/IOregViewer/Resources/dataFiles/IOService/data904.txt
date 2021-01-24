@@ -1,0 +1,7 @@
+[
+{"data":{"title":"IOUserClientDefaultLocking"},"attr":{"id":"62334","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"62336","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CapabilityFlags"},"attr":{"id":"62338","ColType":"Number","ColValue":"0"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"62340","ColType":"Number","ColValue":"2"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"62342","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"IOUserClientCreator"},"attr":{"id":"62344","ColType":"String","ColValue":"pid 282, com.apple.AppleU"}},
+{"data":{"title":"IOUserServerName"},"attr":{"id":"62346","ColType":"String","ColValue":"com.apple.driverkit.AppleUserHIDEventDriver"}},
+{"data":{"title":"IOUserServerTag"},"attr":{"id":"62348","ColType":"Number","ColValue":"4294968634"}}
+]

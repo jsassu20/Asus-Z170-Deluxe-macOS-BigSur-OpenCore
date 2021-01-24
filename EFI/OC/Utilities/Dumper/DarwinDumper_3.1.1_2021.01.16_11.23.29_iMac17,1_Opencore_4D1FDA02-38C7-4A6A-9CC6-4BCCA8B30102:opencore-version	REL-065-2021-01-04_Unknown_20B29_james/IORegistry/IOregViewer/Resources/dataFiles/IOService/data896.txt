@@ -1,0 +1,11 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"60716","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"60718","ColType":"String","ColValue":"com.apple.driver.LuaHardwareAccess"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"60720","ColType":"String","ColValue":"LuaHardwareAccess"}},
+{"data":{"title":"IOClass"},"attr":{"id":"60722","ColType":"String","ColValue":"LuaHardwareAccess"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"60724","ColType":"String","ColValue":"com.apple.driver.LuaHardwareAccess"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"60726","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"60728","ColType":"String","ColValue":"com.apple.driver.LuaHardwareAccess"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"60730","ColType":"String","ColValue":"LuaHardwareAccessUserClient"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"60732","ColType":"String","ColValue":"IOKit"}}
+]

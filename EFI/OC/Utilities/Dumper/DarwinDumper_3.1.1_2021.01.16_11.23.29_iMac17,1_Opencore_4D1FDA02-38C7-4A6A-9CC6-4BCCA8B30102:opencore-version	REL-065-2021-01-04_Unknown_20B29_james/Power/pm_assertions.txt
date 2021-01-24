@@ -1,0 +1,23 @@
+2021-01-16 11:24:23 -0500 
+Assertion status system-wide:
+   BackgroundTask                 1
+   ApplePushServiceTask           0
+   UserIsActive                   1
+   PreventUserIdleDisplaySleep    0
+   PreventSystemSleep             0
+   ExternalMedia                  0
+   PreventUserIdleSystemSleep     0
+   NetworkClientActive            0
+Listed by owning process:
+   pid 137(WindowServer): [0x0000000e0009802e] 00:00:32 UserIsActive named: "com.apple.iohideventsystem.queue.tickle serviceID:10000053a name:AppleUserHIDEventSe product:Corsair Gaming HARP eventType:17"  
+	Timeout will fire in 567 secs Action=TimeoutActionRelease
+   pid 365(UserEventAgent): [0x0000003b000b826b] 00:02:08 BackgroundTask named: "com.apple.coreduet.sync.update-source-device-identifiers"  
+	Created for PID: 373. 
+Kernel Assertions: 0x104=USB,MAGICWAKE
+   id=503  level=255 0x4=USB creat=1/16/21, 11:27 AM description=com.apple.usb.externaldevice.14e00000 owner=BRCM20702 Hub
+   id=505  level=255 0x4=USB creat=1/16/21, 11:29 AM description=com.apple.usb.externaldevice.14500000 owner=Corsair Gaming HARPOON RGB Mouse
+   id=506  level=255 0x4=USB creat=1/16/21, 11:30 AM description=com.apple.usb.externaldevice.14600000 owner=Corsair Gaming K55 RGB Keyboard
+   id=507  level=255 0x100=MAGICWAKE creat=1/16/21, 11:36 AM description=en0 owner=en0
+   id=508  level=255 0x100=MAGICWAKE creat=1/16/21, 11:27 AM description=llw0 owner=IOSkywalkNetworkBSDClient
+   id=509  level=255 0x100=MAGICWAKE creat=1/16/21, 11:22 AM description=en1 owner=en1
+Idle sleep preventers: IODisplayWrangler

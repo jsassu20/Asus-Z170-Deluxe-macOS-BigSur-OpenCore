@@ -1,0 +1,11 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"59721","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"59723","ColType":"String","ColValue":"com.apple.AppleFSCompression.AppleFSCompressionTypeDataless"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"59725","ColType":"String","ColValue":"com_apple_AppleFSCompression_AppleFSCompressionTypeDataless"}},
+{"data":{"title":"IOClass"},"attr":{"id":"59727","ColType":"String","ColValue":"com_apple_AppleFSCompression_AppleFSCompressionTypeDataless"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"59729","ColType":"String","ColValue":"com.apple.AppleFSCompression.AppleFSCompressionTypeDataless"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"59731","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"com.apple.AppleFSCompression.providesType5"},"attr":{"id":"59733","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"59735","ColType":"String","ColValue":"com.apple.AppleFSCompression.AppleFSCompressionTypeDataless"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"59737","ColType":"String","ColValue":"IOBSD"}}
+]

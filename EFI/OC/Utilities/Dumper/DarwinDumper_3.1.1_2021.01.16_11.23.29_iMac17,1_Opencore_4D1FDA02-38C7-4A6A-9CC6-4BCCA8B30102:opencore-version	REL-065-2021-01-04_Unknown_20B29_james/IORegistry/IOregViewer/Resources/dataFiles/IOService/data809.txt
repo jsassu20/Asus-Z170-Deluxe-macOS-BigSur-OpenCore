@@ -1,0 +1,10 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"57777","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"57779","ColType":"String","ColValue":"as.vit9696.AppleALC"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"57781","ColType":"String","ColValue":"AppleALC"}},
+{"data":{"title":"IOClass"},"attr":{"id":"57783","ColType":"String","ColValue":"AppleALC"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"57785","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"57787","ColType":"String","ColValue":"as.vit9696.AppleALC"}},
+{"data":{"title":"VersionInfo"},"attr":{"id":"57789","ColType":"String","ColValue":"REL-156-2021-01-04"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"57791","ColType":"String","ColValue":"IOKit"}}
+]

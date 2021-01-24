@@ -1,0 +1,13 @@
+2021-01-16 11:21:20.06 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) Entry to probe function
+2021-01-16 11:21:20.06 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) PlatformID found: 19120001
+2021-01-16 11:21:20.06 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][LOG  ][DISPLAY   ] In FB driver start
+2021-01-16 11:21:20.06 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][ERROR  ] Boot pipe could not be found
+2021-01-16 11:21:20.20 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][LOG  ][DISPLAY   ] [AGDC] Get GPU caps
+2021-01-16 11:21:20.23 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][LOG  ][DISPLAY   ] [AGDC] Get GPU caps
+2021-01-16 11:21:20.23 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][LOG  ][DISPLAY   ] [AGDC] Get GPU caps
+2021-01-16 11:21:20.23 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][LOG  ][DISPLAY   ] [AGDC] Get port caps
+2021-01-16 11:21:20.23 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][ERROR  ] No FB found for port -1
+2021-01-16 11:21:29.04 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][LOG  ][DISPLAY   ] [AGDC] Get GPU caps
+2021-01-16 11:21:29.06 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][LOG  ][DISPLAY   ] [AGDC] Get GPU caps
+2021-01-16 11:21:29.07 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][LOG  ][DISPLAY   ] [AGDC] Get GPU caps
+2021-01-16 11:21:29.08 kernel[0]: (AppleIntelSKLGraphicsFramebuffer) [IGFB][LOG  ][DISPLAY   ] [AGDC] Get GPU caps

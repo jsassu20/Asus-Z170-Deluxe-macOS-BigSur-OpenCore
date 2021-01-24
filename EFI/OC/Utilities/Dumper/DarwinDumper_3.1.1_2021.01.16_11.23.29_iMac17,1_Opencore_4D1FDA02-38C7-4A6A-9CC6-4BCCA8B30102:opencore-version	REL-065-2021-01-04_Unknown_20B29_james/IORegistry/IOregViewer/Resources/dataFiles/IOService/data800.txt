@@ -1,0 +1,9 @@
+[
+{"data":{"title":"GrandmasterID"},"attr":{"id":"57654","ColType":"Number","ColValue":"11339094997356249093"}},
+{"data":{"title":"ASPath"},"attr":{"id":"57656","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"57657","ColType":"Number","ColValue":"11339094997356249093"}}]},
+{"data":{"title":"IOGeneralInterest"},"attr":{"id":"57659","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"ClockIdentity"},"attr":{"id":"57661","ColType":"Number","ColValue":"11339094997356249093"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"57663","ColType":"String","ColValue":"IOTimeSyncDomainUserClient"}},
+{"data":{"title":"ClockLockState"},"attr":{"id":"57665","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"ClockIdentifier"},"attr":{"id":"57667","ColType":"Number","ColValue":"11339094997356249093"}}
+]

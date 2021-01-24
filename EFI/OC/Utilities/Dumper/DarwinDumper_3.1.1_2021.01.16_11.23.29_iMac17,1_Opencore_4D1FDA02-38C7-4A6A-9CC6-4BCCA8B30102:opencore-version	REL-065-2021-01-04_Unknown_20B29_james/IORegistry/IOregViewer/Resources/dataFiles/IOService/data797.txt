@@ -1,0 +1,13 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"57598","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"57600","ColType":"String","ColValue":"com.apple.iokit.IOTimeSyncFamily"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"57602","ColType":"String","ColValue":"IOTimeSyncClockManager"}},
+{"data":{"title":"IOClass"},"attr":{"id":"57604","ColType":"String","ColValue":"IOTimeSyncClockManager"}},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"57606","ColType":"String","ColValue":"com.apple.iokit.IOTimeSyncFamily"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"57608","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"57610","ColType":"String","ColValue":"com.apple.iokit.IOTimeSyncFamily"}},
+{"data":{"title":"MachAbsoluteClockID"},"attr":{"id":"57612","ColType":"Number","ColValue":"11267037403318321152"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"57614","ColType":"String","ColValue":"IOTimeSyncClockManagerUserClient"}},
+{"data":{"title":"MachAbsoluteCoreAudioClockDomain"},"attr":{"id":"57616","ColType":"Number","ColValue":"1667825664"}},
+{"data":{"title":"WantsgPTPServices"},"attr":{"id":"57618","ColType":"Boolean","ColValue":"Yes"}}
+]

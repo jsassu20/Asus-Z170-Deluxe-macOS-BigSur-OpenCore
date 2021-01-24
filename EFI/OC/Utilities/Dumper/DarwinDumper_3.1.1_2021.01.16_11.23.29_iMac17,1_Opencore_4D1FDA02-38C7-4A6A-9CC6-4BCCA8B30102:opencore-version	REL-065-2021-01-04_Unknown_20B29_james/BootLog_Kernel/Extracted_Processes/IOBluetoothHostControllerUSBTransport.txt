@@ -1,0 +1,2 @@
+2021-01-16 11:21:17.67 kernel[0]: (IOBluetoothHostControllerUSBTransport) **** [IOBluetoothHostControllerUSBTransport][RequestTransportPowerStateChange] -- entering -- ON -> ON -- this = 0xd800 ****
+2021-01-16 11:21:17.67 kernel[0]: (IOBluetoothHostControllerUSBTransport) **** [IOBluetoothHostControllerUSBTransport][RequestTransportPowerStateChange] -- exiting -- result = SUCCESS -- this = 0xd800 ****

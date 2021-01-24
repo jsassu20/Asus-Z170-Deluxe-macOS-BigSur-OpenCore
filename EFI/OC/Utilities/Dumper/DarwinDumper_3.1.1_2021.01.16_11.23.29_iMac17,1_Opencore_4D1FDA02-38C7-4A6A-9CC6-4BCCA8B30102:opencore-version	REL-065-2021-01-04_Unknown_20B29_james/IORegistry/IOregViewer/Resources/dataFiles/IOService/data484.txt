@@ -1,0 +1,23 @@
+[
+{"data":{"title":"Open"},"attr":{"id":"46168","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"Preferred Block Size"},"attr":{"id":"46170","ColType":"Number","ColValue":"512"}},
+{"data":{"title":"Base"},"attr":{"id":"46172","ColType":"Number","ColValue":"209735680"}},
+{"data":{"title":"Writable"},"attr":{"id":"46174","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOBusyInterest"},"attr":{"id":"46176","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"Size"},"attr":{"id":"46178","ColType":"Number","ColValue":"499898105856"}},
+{"data":{"title":"Content"},"attr":{"id":"46180","ColType":"String","ColValue":"7C3457EF-0000-11AA-AA11-00306543ECAC"}},
+{"data":{"title":"BSD Minor"},"attr":{"id":"46182","ColType":"Number","ColValue":"7"}},
+{"data":{"title":"Whole"},"attr":{"id":"46184","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"Removable"},"attr":{"id":"46186","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"UUID"},"attr":{"id":"46188","ColType":"String","ColValue":"5ADEEC34-E717-45C2-AA7D-B5F88BA5B19F"}},
+{"data":{"title":"BSD Unit"},"attr":{"id":"46190","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"BSD Major"},"attr":{"id":"46192","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"Ejectable"},"attr":{"id":"46194","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"BSD Name"},"attr":{"id":"46196","ColType":"String","ColValue":"disk0s2"}},
+{"data":{"title":"Partition ID"},"attr":{"id":"46198","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"IOGeneralInterest"},"attr":{"id":"46200","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"GPT Attributes"},"attr":{"id":"46202","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"Content Hint"},"attr":{"id":"46204","ColType":"String","ColValue":"7C3457EF-0000-11AA-AA11-00306543ECAC"}},
+{"data":{"title":"Leaf"},"attr":{"id":"46206","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"TierType"},"attr":{"id":"46208","ColType":"String","ColValue":"Main"}}
+]

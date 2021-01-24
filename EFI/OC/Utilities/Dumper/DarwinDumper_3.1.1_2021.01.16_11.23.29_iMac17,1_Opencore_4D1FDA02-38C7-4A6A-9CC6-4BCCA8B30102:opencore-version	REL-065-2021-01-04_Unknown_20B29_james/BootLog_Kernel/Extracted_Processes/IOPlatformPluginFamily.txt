@@ -1,0 +1,4 @@
+2021-01-16 11:21:27.30 kernel[0]: (IOPlatformPluginFamily) ACPI_SMC_PlatformPlugin::start - waitForService(resourceMatching(AppleIntelCPUPowerManagement) timed out
+2021-01-16 11:21:27.30 kernel[0]: (IOPlatformPluginFamily) ACPI_SMC_PlatformPlugin::start - waitForService(resourceMatching(AppleIntelCPUPowerManagement) timed out
+2021-01-16 11:21:27.31 kernel[0]: (IOPlatformPluginFamily) WARNING: IOPlatformPluginUtil : getCPUIDInfo: this is an unknown CPU model 0x5e
+2021-01-16 11:21:27.31 kernel[0]: (IOPlatformPluginFamily) WARNING: IOPlatformPluginUtil : getCPUIDInfo: this is an unknown CPU model 0x5e

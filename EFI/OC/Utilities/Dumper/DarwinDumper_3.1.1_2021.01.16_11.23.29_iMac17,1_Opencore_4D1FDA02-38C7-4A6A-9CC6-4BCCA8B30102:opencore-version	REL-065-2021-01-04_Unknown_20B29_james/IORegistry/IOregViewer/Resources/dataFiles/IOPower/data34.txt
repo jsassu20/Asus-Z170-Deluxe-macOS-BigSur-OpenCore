@@ -1,0 +1,15 @@
+[
+{"data":{"title":"IOAudioDeviceName"},"attr":{"id":"6717","ColType":"String","ColValue":"DeviceN"}},
+{"data":{"title":"IOAudioDeviceShortName"},"attr":{"id":"6719","ColType":"String","ColValue":"DeviceS"}},
+{"data":{"title":"vendorcodecID"},"attr":{"id":"6721","ColType":"Number","ColValue":"268610049"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"6723","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"DevicePowerState"},"attr":{"id":"6725","ColType":"Number","ColValue":"1"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"6727","ColType":"Number","ColValue":"1"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"6729","ColType":"Number","ColValue":"32768"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"6731","ColType":"Number","ColValue":"1"}}]},
+{"data":{"title":"IOAudioDeviceModelID"},"attr":{"id":"6733","ColType":"String","ColValue":"AppleGFXHDA:0"}},
+{"data":{"title":"IOPMUnattendedWakePowerState"},"attr":{"id":"6735","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOAudioPowerState"},"attr":{"id":"6737","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"IOAudioDeviceManufacturerName"},"attr":{"id":"6739","ColType":"String","ColValue":"ManufacturerName"}},
+{"data":{"title":"HDMIDPAudioCapabilities"},"attr":{"id":"6741","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOAudioDeviceCanBeDefaults"},"attr":{"id":"6743","ColType":"Number","ColValue":"6"}},
+{"data":{"title":"IOAudioDeviceLocalizedBundle"},"attr":{"id":"6745","ColType":"String","ColValue":"AppleGFXHDA.kext"}},
+{"data":{"title":"PowerProfile"},"attr":{"id":"6747","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"PowerIdentity"},"attr":{"id":"6749","ColType":"String","ColValue":"Built-in Audio"}},{"data":{"title":"MaximumPowerLimit"},"attr":{"id":"6751","ColType":"Number","ColValue":"0"}},{"data":{"title":"IdlePowerLevel"},"attr":{"id":"6753","ColType":"Number","ColValue":"0"}},{"data":{"title":"CurrentPowerLevel"},"attr":{"id":"6755","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"IOAudioDeviceTransportType"},"attr":{"id":"6757","ColType":"Number","ColValue":"1685090932"}}
+]

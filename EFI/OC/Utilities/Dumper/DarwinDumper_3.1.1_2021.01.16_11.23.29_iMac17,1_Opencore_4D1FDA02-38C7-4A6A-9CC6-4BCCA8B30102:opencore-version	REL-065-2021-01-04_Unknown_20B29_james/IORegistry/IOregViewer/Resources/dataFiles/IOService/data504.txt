@@ -1,0 +1,19 @@
+[
+{"data":{"title":"name"},"attr":{"id":"47905","ColType":"Data","ColValue":"&lt;\"pci8086,a145\"&gt;"}},
+{"data":{"title":"subsystem-vendor-id"},"attr":{"id":"47907","ColType":"Data","ColValue":"&lt;43100000&gt;"}},
+{"data":{"title":"compatible"},"attr":{"id":"47909","ColType":"Data","ColValue":"&lt;\"pci1043,8694\",\"pci8086,a145\",\"pciclass,060100\",\"LPCB\"&gt;"}},
+{"data":{"title":"IOName"},"attr":{"id":"47911","ColType":"String","ColValue":"pci8086,a145"}},
+{"data":{"title":"reg"},"attr":{"id":"47913","ColType":"Data","ColValue":"&lt;00f8000000000000000000000000000000000000&gt;"}},
+{"data":{"title":"device-id"},"attr":{"id":"47915","ColType":"Data","ColValue":"&lt;45a10000&gt;"}},
+{"data":{"title":"IOServiceDEXTEntitlements"},"attr":{"id":"47917","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"47918","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"47919","ColType":"String","ColValue":"com.apple.developer.driverkit.transport.pci"}}]}]},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"47921","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"ChildrenPowerState"},"attr":{"id":"47923","ColType":"Number","ColValue":"2"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"47925","ColType":"Number","ColValue":"2"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"47927","ColType":"Number","ColValue":"258"}},{"data":{"title":"ChildProxyPowerState"},"attr":{"id":"47929","ColType":"Number","ColValue":"2"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"47931","ColType":"Number","ColValue":"3"}}]},
+{"data":{"title":"built-in"},"attr":{"id":"47933","ColType":"Data","ColValue":"&lt;00&gt;"}},
+{"data":{"title":"IOPCIResourced"},"attr":{"id":"47935","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"revision-id"},"attr":{"id":"47937","ColType":"Data","ColValue":"&lt;31000000&gt;"}},
+{"data":{"title":"vendor-id"},"attr":{"id":"47939","ColType":"Data","ColValue":"&lt;86800000&gt;"}},
+{"data":{"title":"pcidebug"},"attr":{"id":"47941","ColType":"String","ColValue":"0:31:0"}},
+{"data":{"title":"class-code"},"attr":{"id":"47943","ColType":"Data","ColValue":"&lt;00010600&gt;"}},
+{"data":{"title":"acpi-path"},"attr":{"id":"47945","ColType":"String","ColValue":"IOACPIPlane:/_SB/PCI0@0/LPCB@1f0000"}},
+{"data":{"title":"subsystem-id"},"attr":{"id":"47947","ColType":"Data","ColValue":"&lt;94860000&gt;"}},
+{"data":{"title":"acpi-device"},"attr":{"id":"47949","ColType":"String","ColValue":"IOACPIPlatformDevice is not serializable"}}
+]

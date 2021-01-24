@@ -1,0 +1,5 @@
+[
+{"data":{"title":"lastSubmittedTime"},"attr":{"id":"9551","ColType":"Number","ColValue":"192135771527"}},
+{"data":{"title":"IOUserClientCreator"},"attr":{"id":"9553","ColType":"String","ColValue":"pid 137, WindowServer"}},
+{"data":{"title":"accumulatedGPUTime"},"attr":{"id":"9555","ColType":"Number","ColValue":"69055349"}}
+]

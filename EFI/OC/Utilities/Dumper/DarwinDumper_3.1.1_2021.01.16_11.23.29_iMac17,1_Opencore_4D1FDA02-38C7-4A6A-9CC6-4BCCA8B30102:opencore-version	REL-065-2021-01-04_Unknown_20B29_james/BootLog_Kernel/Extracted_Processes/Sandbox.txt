@@ -1,0 +1,108 @@
+2021-01-16 11:21:15.45 kernel[0]: Security policy loaded: Seatbelt sandbox policy (Sandbox)
+2021-01-16 11:21:17.54 kernel[0]: (Sandbox) Sandbox: distnoted(123) deny(1) file-read-metadata /usr/sbin/distnoted
+2021-01-16 11:21:17.54 kernel[0]: (Sandbox) Sandbox: distnoted(123) deny(1) file-read-metadata /usr
+2021-01-16 11:21:17.59 kernel[0]: (Sandbox) Sandbox: contextstored(107) deny(1) user-preference-read kCFPreferencesAnyApplication
+2021-01-16 11:21:17.60 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for contextstored deny(1) user-preference-read kCFPreferencesAnyApplication
+2021-01-16 11:21:17.60 kernel[0]: (Sandbox) Sandbox: distnoted(169) deny(1) file-read-metadata /usr/sbin/distnoted
+2021-01-16 11:21:17.60 kernel[0]: (Sandbox) Sandbox: distnoted(169) deny(1) file-read-metadata /usr
+2021-01-16 11:21:17.65 kernel[0]: (Sandbox) Sandbox: bluetoothd(131) deny(1) file-read-metadata /usr
+2021-01-16 11:21:17.82 kernel[0]: (Sandbox) Sandbox: trustd(191) deny(1) iokit-get-properties boot-objects-path
+2021-01-16 11:21:17.94 kernel[0]: (Sandbox) System Policy: diskarbitrationd(100) allow file-read-data /dev/rdisk4s5s1
+2021-01-16 11:21:17.95 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for diskarbitrationd allow file-read-data /dev/rdisk4s5s1
+2021-01-16 11:21:17.95 kernel[0]: (Sandbox) Sandbox: coreaudiod(208) deny(1) file-read-metadata /private/var/db/SystemPolicyConfiguration/UAKL.plist
+2021-01-16 11:21:18.00 kernel[0]: (Sandbox) Sandbox: distnoted(227) deny(1) file-read-metadata /usr/sbin/distnoted
+2021-01-16 11:21:18.00 kernel[0]: (Sandbox) Sandbox: distnoted(227) deny(1) file-read-metadata /usr
+2021-01-16 11:21:18.31 kernel[0]: (Sandbox) Sandbox: nsurlsessiond(244) deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:18.36 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for nsurlsessiond deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:18.36 kernel[0]: (Sandbox) Sandbox: locationd(117) deny(1) mach-lookup
+2021-01-16 11:21:18.36 kernel[0]: (Sandbox) Sandbox: locationd(117) deny(1) mach-lookup com.apple.wifi.sharekit
+2021-01-16 11:21:18.37 kernel[0]: (Sandbox) Sandbox: locationd(117) deny(1) authorization-right-obtain system.preferences
+2021-01-16 11:21:18.40 kernel[0]: (Sandbox) Sandbox: distnoted(250) deny(1) file-read-metadata /usr/sbin/distnoted
+2021-01-16 11:21:18.40 kernel[0]: (Sandbox) Sandbox: distnoted(250) deny(1) file-read-metadata /usr
+2021-01-16 11:21:18.44 kernel[0]: (Sandbox) Sandbox: contextstored(107) deny(1) mach-lookup com.apple.tccd.system
+2021-01-16 11:21:18.48 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for contextstored deny(1) mach-lookup com.apple.tccd.system
+2021-01-16 11:21:18.48 kernel[0]: (Sandbox) Sandbox: nsurlsessiond(244) deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:18.54 kernel[0]: (Sandbox) Sandbox: trustd(257) deny(1) iokit-get-properties boot-objects-path
+2021-01-16 11:21:18.60 kernel[0]: (Sandbox) Sandbox: nsurlsessiond(244) deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:19.31 kernel[0]: (Sandbox) Sandbox: dasd(120) allow ipc-posix-shm-write-create com.apple.dasd.budgets
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-read-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for dasd allow file-read-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-write-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-read-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db-wal
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-write-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db-wal
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-read-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db-shm
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-write-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db-shm
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-read-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-write-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-read-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db-wal
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-write-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db-wal
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-read-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db-shm
+2021-01-16 11:21:19.32 kernel[0]: (Sandbox) Sandbox: dasd(120) allow file-write-data /private/var/db/DuetActivityScheduler/DuetActivitySchedulerClassC.db-shm
+2021-01-16 11:21:19.33 kernel[0]: (Sandbox) Sandbox: dasd(120) allow iokit-get-properties system-type
+2021-01-16 11:21:19.36 kernel[0]: (Sandbox) Sandbox: coreduetd(103) deny(1) mach-lookup com.apple.tccd
+2021-01-16 11:21:19.36 kernel[0]: (Sandbox) Sandbox: coreduetd(103) deny(1) mach-lookup com.apple.tccd.system
+2021-01-16 11:21:19.39 kernel[0]: (Sandbox) Sandbox: coreduetd(103) deny(1) mach-lookup com.apple.tccd
+2021-01-16 11:21:19.39 kernel[0]: (Sandbox) Sandbox: coreduetd(103) deny(1) mach-lookup com.apple.tccd.system
+2021-01-16 11:21:19.48 kernel[0]: (Sandbox) Sandbox: nsurlsessiond(244) deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:19.49 kernel[0]: (Sandbox) Sandbox: 2 duplicate reports for nsurlsessiond deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:19.49 kernel[0]: (Sandbox) Sandbox: nsurlsessiond(244) deny(1) mach-lookup com.apple.mobileassetd.v2
+2021-01-16 11:21:19.49 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for nsurlsessiond deny(1) mach-lookup com.apple.mobileassetd.v2
+2021-01-16 11:21:19.49 kernel[0]: (Sandbox) Sandbox: nsurlsessiond(244) deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:20.32 kernel[0]: (Sandbox) System Policy: UserEventAgent(69) allow file-read-data /private/var/db/installcoordinationd/Library/InstallCoordination
+2021-01-16 11:21:20.32 kernel[0]: (Sandbox) Sandbox: 2 duplicate reports for UserEventAgent allow file-read-data /private/var/db/installcoordinationd/Library/InstallCoordination
+2021-01-16 11:21:20.32 kernel[0]: (Sandbox) System Policy: UserEventAgent(69) allow file-read-data /private/var/db/installcoordinationd/Library
+2021-01-16 11:21:20.32 kernel[0]: (Sandbox) System Policy: UserEventAgent(69) allow file-read-data /private/var/db/installcoordinationd
+2021-01-16 11:21:20.49 kernel[0]: (Sandbox) Sandbox: com.apple.AppleU(280) deny(1) file-read-metadata /System
+2021-01-16 11:21:20.83 kernel[0]: (Sandbox) Sandbox: 11 duplicate reports for com.apple.AppleU deny(1) file-read-metadata /System
+2021-01-16 11:21:20.83 kernel[0]: (Sandbox) Sandbox: nsurlsessiond(244) deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:21.58 kernel[0]: (Sandbox) Sandbox: dasd(120) allow mach-lookup com.apple.powerlog.plxpclogger.xpc
+2021-01-16 11:21:22.38 kernel[0]: (Sandbox) Sandbox: locationd(117) deny(1) file-write-data /dev/io8log
+2021-01-16 11:21:22.38 kernel[0]: (Sandbox) Sandbox: locationd(117) deny(1) file-write-data /dev/io8logtemp
+2021-01-16 11:21:22.48 kernel[0]: (Sandbox) Sandbox: locationd(288) deny(1) mach-lookup
+2021-01-16 11:21:22.48 kernel[0]: (Sandbox) Sandbox: locationd(288) deny(1) mach-lookup com.apple.wifi.sharekit
+2021-01-16 11:21:24.11 kernel[0]: (Sandbox) Sandbox: distnoted(291) deny(1) file-read-metadata /usr/sbin/distnoted
+2021-01-16 11:21:24.11 kernel[0]: (Sandbox) Sandbox: distnoted(291) deny(1) file-read-metadata /usr
+2021-01-16 11:21:24.42 kernel[0]: (Sandbox) Sandbox: nsurlsessiond(244) deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:25.36 kernel[0]: (Sandbox) Sandbox: 2 duplicate reports for nsurlsessiond deny(1) file-write-create /private/var/db/nsurlsessiond/Library
+2021-01-16 11:21:25.36 kernel[0]: (Sandbox) Sandbox: fud(88) allow mach-lookup com.apple.commcenter.coretelephony.xpc
+2021-01-16 11:21:25.60 kernel[0]: (Sandbox) Sandbox: 2 duplicate reports for fud allow mach-lookup com.apple.commcenter.coretelephony.xpc
+2021-01-16 11:21:25.60 kernel[0]: (Sandbox) System Policy: MRT(76) allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db
+2021-01-16 11:21:25.60 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for MRT allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db
+2021-01-16 11:21:25.60 kernel[0]: (Sandbox) System Policy: MRT(76) allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-wal
+2021-01-16 11:21:25.60 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for MRT allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-wal
+2021-01-16 11:21:25.60 kernel[0]: (Sandbox) System Policy: MRT(76) allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-shm
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for MRT allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-shm
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) System Policy: MRT(76) allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for MRT allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) System Policy: MRT(76) allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-wal
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for MRT allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-wal
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) System Policy: MRT(76) allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-shm
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for MRT allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-shm
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) System Policy: MRT(76) allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for MRT allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) System Policy: MRT(76) allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-wal
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for MRT allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db-wal
+2021-01-16 11:21:25.61 kernel[0]: (Sandbox) System Policy: MRT(76) allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db
+2021-01-16 11:21:26.83 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for MRT allow file-read-metadata /private/var/db/CoreDuet/Knowledge/knowledgeC.db
+2021-01-16 11:21:26.83 kernel[0]: (Sandbox) Sandbox: distnoted(300) deny(1) file-read-metadata /usr/sbin/distnoted
+2021-01-16 11:21:26.83 kernel[0]: (Sandbox) Sandbox: distnoted(300) deny(1) file-read-metadata /usr
+2021-01-16 11:21:27.48 kernel[0]: (Sandbox) Sandbox: distnoted(303) deny(1) file-read-metadata /usr/sbin/distnoted
+2021-01-16 11:21:27.48 kernel[0]: (Sandbox) Sandbox: distnoted(303) deny(1) file-read-metadata /usr
+2021-01-16 11:21:27.52 kernel[0]: (Sandbox) Sandbox: com.apple.Ambien(302) deny(1) mach-lookup com.apple.windowserver
+2021-01-16 11:21:27.77 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for com.apple.Ambien deny(1) mach-lookup com.apple.windowserver
+2021-01-16 11:21:27.77 kernel[0]: (Sandbox) Sandbox: systemstats(77) deny(1) mach-lookup com.apple.tccd.system
+2021-01-16 11:21:27.80 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for systemstats deny(1) mach-lookup com.apple.tccd.system
+2021-01-16 11:21:27.80 kernel[0]: (Sandbox) Sandbox: distnoted(306) deny(1) file-read-metadata /usr/sbin/distnoted
+2021-01-16 11:21:27.80 kernel[0]: (Sandbox) Sandbox: distnoted(306) deny(1) file-read-metadata /usr
+2021-01-16 11:21:28.14 kernel[0]: (Sandbox) Sandbox: locationd(309) deny(1) mach-lookup
+2021-01-16 11:21:28.14 kernel[0]: (Sandbox) Sandbox: locationd(309) deny(1) mach-lookup com.apple.wifi.sharekit
+2021-01-16 11:21:28.60 kernel[0]: (Sandbox) System Policy: mount_apfs(311) allow file-mount /System/Volumes/Update/mnt1
+2021-01-16 11:21:30.62 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for mount_apfs allow file-mount /System/Volumes/Update/mnt1
+2021-01-16 11:21:30.62 kernel[0]: (Sandbox) Sandbox: distnoted(327) deny(1) file-read-metadata /usr/sbin/distnoted
+2021-01-16 11:21:30.62 kernel[0]: (Sandbox) Sandbox: distnoted(327) deny(1) file-read-metadata /usr
+2021-01-16 11:21:31.24 kernel[0]: (Sandbox) Sandbox: iconservicesagen(331) deny(1) mach-lookup com.apple.tccd.system
+2021-01-16 11:21:31.24 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for iconservicesagen deny(1) mach-lookup com.apple.tccd.system
+2021-01-16 11:21:31.24 kernel[0]: (Sandbox) Sandbox: iconservicesagen(331) deny(1) mach-lookup com.apple.windowserver.active
+2021-01-16 11:21:31.82 kernel[0]: (Sandbox) Sandbox: 1 duplicate report for iconservicesagen deny(1) mach-lookup com.apple.windowserver.active
+2021-01-16 11:21:31.82 kernel[0]: (Sandbox) Sandbox: ctkd(338) deny(1) mach-lookup com.apple.CoreServices.coreservicesd
+2021-01-16 11:21:31.82 kernel[0]: (Sandbox) Sandbox: ctkd(338) deny(1) mach-lookup com.apple.DiskArbitration.diskarbitrationd

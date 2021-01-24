@@ -1,0 +1,18 @@
+[
+{"data":{"title":"IOClass"},"attr":{"id":"22988","ColType":"String","ColValue":"AppleThunderboltHAL"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"22990","ColType":"String","ColValue":"com.apple.driver.AppleThunderboltNHI"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"22992","ColType":"String","ColValue":"IOPCIDevice"}},
+{"data":{"title":"IOPCIClassMatch"},"attr":{"id":"22994","ColType":"String","ColValue":"0x08800000&0xffff0000"}},
+{"data":{"title":"IOPCITunnelCompatible"},"attr":{"id":"22996","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOPlatformSleepAction"},"attr":{"id":"22998","ColType":"Number","ColValue":"200000"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"23000","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOPCIMatch"},"attr":{"id":"23002","ColType":"String","ColValue":"0x15008086&0xff00ffff"}},
+{"data":{"title":"IOPlatformWakeAction"},"attr":{"id":"23004","ColType":"Number","ColValue":"200000"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"23006","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"NVM Loaded"},"attr":{"id":"23008","ColType":"Number","ColValue":"24"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"23010","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"ChildrenPowerState"},"attr":{"id":"23012","ColType":"Number","ColValue":"3"}},{"data":{"title":"DevicePowerState"},"attr":{"id":"23014","ColType":"Number","ColValue":"3"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"23016","ColType":"Number","ColValue":"3"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"23018","ColType":"Number","ColValue":"2"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"23020","ColType":"Number","ColValue":"3"}}]},
+{"data":{"title":"Statistics"},"attr":{"id":"23022","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Total Rx Packets"},"attr":{"id":"23024","ColType":"String","ColValue":"0"}},{"data":{"title":"Total Tx Packets"},"attr":{"id":"23026","ColType":"String","ColValue":"8"}}]},
+{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"23028","ColType":"String","ColValue":"com.apple.driver.AppleThunderboltNHI"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"23030","ColType":"String","ColValue":"com.apple.driver.AppleThunderboltNHI"}},
+{"data":{"title":"Hardware Owner"},"attr":{"id":"23032","ColType":"String","ColValue":"AppleThunderboltNHIType3"}}
+]

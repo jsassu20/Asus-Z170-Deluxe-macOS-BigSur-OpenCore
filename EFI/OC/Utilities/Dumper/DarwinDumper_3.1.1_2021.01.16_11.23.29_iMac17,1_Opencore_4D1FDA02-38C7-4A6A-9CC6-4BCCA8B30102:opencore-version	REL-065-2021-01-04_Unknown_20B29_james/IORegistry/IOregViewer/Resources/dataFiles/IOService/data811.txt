@@ -1,0 +1,10 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"57809","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"57811","ColType":"String","ColValue":"as.vit9696.WhateverGreen"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"57813","ColType":"String","ColValue":"WhateverGreen"}},
+{"data":{"title":"IOClass"},"attr":{"id":"57815","ColType":"String","ColValue":"WhateverGreen"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"57817","ColType":"String","ColValue":"IOResources"}},
+{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"57819","ColType":"String","ColValue":"as.vit9696.WhateverGreen"}},
+{"data":{"title":"VersionInfo"},"attr":{"id":"57821","ColType":"String","ColValue":"REL-146-2021-01-04"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"57823","ColType":"String","ColValue":"IOKit"}}
+]

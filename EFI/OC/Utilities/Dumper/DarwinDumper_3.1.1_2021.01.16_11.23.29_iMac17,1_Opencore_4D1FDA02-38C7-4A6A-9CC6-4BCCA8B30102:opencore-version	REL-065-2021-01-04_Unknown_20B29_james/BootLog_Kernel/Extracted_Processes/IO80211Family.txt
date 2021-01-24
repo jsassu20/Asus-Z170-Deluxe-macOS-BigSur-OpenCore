@@ -1,0 +1,164 @@
+2021-01-16 11:21:17.74 kernel[0]: (IO80211Family) IO80211Controller::dataLinkLayerAttachComplete():  adding AppleEFINVRAM notification
+2021-01-16 11:21:17.74 kernel[0]: (IO80211Family) initting Scan Manager controller 0x504c8cca5d55f1b9 ioservice 0x504c8cca5d64a779 interface 0x504c8cca5d4151b9 ioservce 0x504c8cca5d55f1b9
+2021-01-16 11:21:17.74 kernel[0]: (IO80211Family) bpfAttach len 72 dlt 12
+2021-01-16 11:21:17.74 kernel[0]: (IO80211Family) Not adding subscription due to missing boot-arg wlan.iorsubscriptions
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) AirPort: Link Down on en1. Reason 8 (Disassociated because station leaving).
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) Got incomplete channel sequence length 0, should be 16
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) postMessage::1412 APPLE80211_M_BSSID_CHANGED received
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) en1: channel changed to 1
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) en1: channel changed to 1
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) en1::IO80211Interface::postMessage bssid changed
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) bpfAttach len 94 dlt 163
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) bpfAttach len 30 dlt 105
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) bpfAttach len 52 dlt 127
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) bpfAttach len 38 dlt 192
+2021-01-16 11:21:18.04 kernel[0]: (IO80211Family) AirPort_BrcmNIC::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 6
+2021-01-16 11:21:27.34 kernel[0]: (IO80211Family) IO80211VirtualInterface::AirPort_BrcmNIC_P2PInterface::init name <p2p0> role 1
+2021-01-16 11:21:27.34 kernel[0]: (IO80211Family) IO80211VirtualInterface::init _controller is 0x504c8cca5d55f1b9, provider is 0x504c8cca5d64a779 role is 1
+2021-01-16 11:21:27.34 kernel[0]: (IO80211Family) Not adding subscription due to missing boot-arg wlan.iorsubscriptions
+2021-01-16 11:21:27.34 kernel[0]: (IO80211Family) IO80211VirtualInterface::init SUCCESS _controller is 0x504c8cca5d55f1b9, provider is 0x504c8cca5d64a779
+2021-01-16 11:21:27.57 kernel[0]: (IO80211Family) IO80211VirtualInterface::AirPort_BrcmNIC_P2PInterface::init name <awdl0> role 4
+2021-01-16 11:21:27.57 kernel[0]: (IO80211Family) AirPort_BrcmNIC_P2PInterface::peerToPeerAttachToBpf name <awdl0> role 4 successful attach to bpf type 147
+2021-01-16 11:21:27.58 kernel[0]: (IO80211Family) IO80211VirtualInterface::init _controller is 0x504c8cca5d55f1b9, provider is 0x504c8cca5d64a779 role is 4
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) com.apple.p2p: setPeerManagerLogFlags[5752] logflags: 0
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) com.apple.p2p: setPeerManagerLogFlags[5760] fPcapLogStream is NULL
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) com.apple.p2p: setPeerManagerLogFlags[5752] logflags: 0
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) com.apple.p2p: setPeerManagerLogFlags[5760] fPcapLogStream is NULL
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) Finding _faultReporter
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) com.apple.p2p: initializeParams:265 [BssSteering] Resetting BSS Steering Ctxt
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) com.apple.p2p: addAllEventSources:313 [BssSteering] Adding Event sources
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) com.apple.p2p: setRealTime[21987] :0
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) com.apple.p2p: setPeerManagerLogFlags[5752] logflags: 0
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) com.apple.p2p: setPeerManagerLogFlags[5752] logflags: 0
+2021-01-16 11:21:27.59 kernel[0]: (IO80211Family) Not adding subscription due to missing boot-arg wlan.iorsubscriptions
+2021-01-16 11:21:27.60 kernel[0]: (IO80211Family)  Creating all peerManager reporters
+2021-01-16 11:21:27.60 kernel[0]: (IO80211Family) IO80211VirtualInterface::init SUCCESS _controller is 0x504c8cca5d55f1b9, provider is 0x504c8cca5d64a779
+2021-01-16 11:21:27.61 kernel[0]: (IO80211Family) com.apple.p2p: setPeerManagerLogFlags[5752] logflags: 4
+2021-01-16 11:21:27.62 kernel[0]: (IO80211Family) Not adding subscription due to missing boot-arg wlan.iorsubscriptions
+2021-01-16 11:21:27.63 kernel[0]: (IO80211Family)  Creating all peerManager reporters
+2021-01-16 11:21:27.65 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setAwdlPeerTrafficRegistration assisted discovery requested: channel 0 realTime 0 active 0 forcedMaster 00:00:00:00:00:00
+2021-01-16 11:21:27.66 kernel[0]: (IO80211Family) scanControl: AWDL is controlling scan, ePNOScan ON, roamScan ON, limitedRoam OFF, abortScan 0
+2021-01-16 11:21:27.67 kernel[0]: (IO80211Family) scanControlCommand: Sending scan control command, ePNOScan ON (0x0), roamScan ON (0x0), limitedRoam OFF (0x0), abortScan 0
+2021-01-16 11:21:27.68 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::updateLocalRequests: Deleting PTR:._wifid._tcp.local. service PTR browse from airportd (pid 252)
+2021-01-16 11:21:27.68 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::updateLocalRequests Received service request but not configured (_stateFlags:0x0)! bailing..
+2021-01-16 11:21:27.68 kernel[0]: (IO80211Family)  IOCTL (from pid 252) not recognized: 216 out of 379
+2021-01-16 11:21:27.69 kernel[0]: (IO80211Family)  IOCTL (from pid 252) not recognized: 216 out of 379
+2021-01-16 11:21:27.69 kernel[0]: (IO80211Family) Setting BTCoex Profile: band:8
+2021-01-16 11:21:27.69 kernel[0]: (IO80211Family) Profile[0]: mode:0; desense:0; desense_level:0; chain_power_offset:
+2021-01-16 11:21:27.70 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.70 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.70 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.70 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.70 kernel[0]: (IO80211Family) 
+2021-01-16 11:21:27.70 kernel[0]: (IO80211Family) Profile[1]: mode:0; desense:0; desense_level:0; chain_power_offset:
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) Profile[2]: mode:0; desense:0; desense_level:0; chain_power_offset:
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) 
+2021-01-16 11:21:27.71 kernel[0]: (IO80211Family) Setting BTCoex Profile: band:2
+2021-01-16 11:21:27.72 kernel[0]: (IO80211Family) Profile[0]: mode:0; desense:0; desense_level:0; chain_power_offset:
+2021-01-16 11:21:27.72 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.72 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.72 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.72 kernel[0]: (IO80211Family) 0,
+2021-01-16 11:21:27.72 kernel[0]: (IO80211Family) 
+2021-01-16 11:21:27.73 kernel[0]: (IO80211Family) en1: setting diversity to: -1
+2021-01-16 11:21:27.73 kernel[0]: (IO80211Family) en1: Error configuring antenna diversity (index = -1).
+2021-01-16 11:21:27.73 kernel[0]: (IO80211Family) en1: setting tx antenna: -1
+2021-01-16 11:21:27.74 kernel[0]: (IO80211Family) en1: Error configuring transmit antenna (index = -1).
+2021-01-16 11:21:27.74 kernel[0]: (IO80211Family) en1: channel changed to 1
+2021-01-16 11:21:27.74 kernel[0]: (IO80211Family) Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+2021-01-16 11:21:27.83 kernel[0]: (IO80211Family) AirPort: Link Up on awdl0. Reason Unspecified (1)
+2021-01-16 11:21:27.83 kernel[0]: (IO80211Family) com.apple.p2p: doEnable:1458 Enabling AWDL Interface because of setLinkState... configured = 0
+2021-01-16 11:21:27.83 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::configure Configuring AWDL interface
+2021-01-16 11:21:27.83 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setCountryCodeState We don't have a country code, setting internal state to request for CC from an AWDL peer
+2021-01-16 11:21:27.83 kernel[0]: (IO80211Family) com.apple.p2p: AWDL is off
+2021-01-16 11:21:27.83 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setCountryCodeState We don't have a country code, setting internal state to request for CC from an AWDL peer
+2021-01-16 11:21:27.83 kernel[0]: (IO80211Family) com.apple.p2p: doEnable:1458 Enabling AWDL Interface because of setLinkState... configured = 1
+2021-01-16 11:21:27.83 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setCountryCodeState We don't have a country code, setting internal state to request for CC from an AWDL peer
+2021-01-16 11:21:27.83 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setCountryCodeState We don't have a country code, setting internal state to request for CC from an AWDL peer
+2021-01-16 11:21:27.84 kernel[0]: (IO80211Family) 1
+2021-01-16 11:21:27.84 kernel[0]: (IO80211Family) IO80211Family: [llw0] IPv6 enable returning 0x00000000
+2021-01-16 11:21:27.84 kernel[0]: (IO80211Family) IO80211Family: [llw0] IPv6 enable returning 0x00000000
+2021-01-16 11:21:27.84 kernel[0]: (IO80211Family) IO80211BpfTap: BPF_MODE: direction (3) from 'airportd' (pid 252) (kr 00000000)
+2021-01-16 11:21:27.84 kernel[0]: (IO80211Family) IO80211BpfTap: BPF_MODE: direction (0) from 'airportd' (pid 252) (kr 00000000)
+2021-01-16 11:21:27.84 kernel[0]: (IO80211Family) IO80211BpfTap: BPF_MODE: direction (3) from 'airportd' (pid 252) (kr 00000000)
+2021-01-16 11:21:27.84 kernel[0]: (IO80211Family) Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+2021-01-16 11:21:28.47 kernel[0]: (IO80211Family) en1: 802.11d country code set to 'US'.
+2021-01-16 11:21:28.48 kernel[0]: (IO80211Family) en1: Supported channels 1 2 3 4 5 6 7 8 9 10 11 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165
+2021-01-16 11:21:28.49 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setCountryCodeState Valid host determined country code
+2021-01-16 11:21:28.49 kernel[0]: (IO80211Family) com.apple.p2p: Clearing supervisor locale, source AWDL, _peerLearnedLocale 0
+2021-01-16 11:21:28.49 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::configureValidAWDLChannels social channel 2G: 6 on 5G: 149 5G Alt: 44 country code: US
+2021-01-16 11:21:28.51 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED
+2021-01-16 11:21:28.51 kernel[0]: (IO80211Family) com.apple.p2p: AWDL is suspended
+2021-01-16 11:21:28.73 kernel[0]: (IO80211Family) parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+2021-01-16 11:21:28.74 kernel[0]: (IO80211Family) initWithInterfaceAndIE: _myMacAddress 88:63:df:ba:23:8d
+2021-01-16 11:21:28.74 kernel[0]: (IO80211Family) setPSKPMK: PMK SET!
+2021-01-16 11:21:28.75 kernel[0]: (IO80211Family) en1: 802.11d country code set to 'X0'.
+2021-01-16 11:21:28.75 kernel[0]: (IO80211Family) en1: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165
+2021-01-16 11:21:28.76 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setCountryCodeState We don't have a country code, setting internal state to request for CC from an AWDL peer
+2021-01-16 11:21:28.89 kernel[0]: (IO80211Family) Failed test for valid apple80211_postMessage_tlv_types in data, 65535
+2021-01-16 11:21:28.90 kernel[0]: (IO80211Family) Unexpected payload found for message 74, dataLen 104
+2021-01-16 11:21:28.92 kernel[0]: (IO80211Family) Error storing postMessage 74
+2021-01-16 11:21:28.93 kernel[0]: (IO80211Family) en1: Received EAPOL packet (length = 113)
+2021-01-16 11:21:28.93 kernel[0]: (IO80211Family) inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+2021-01-16 11:21:28.94 kernel[0]: (IO80211Family) inputEAPOLFrame: Received message 1 of 4
+2021-01-16 11:21:28.94 kernel[0]: (IO80211Family) FULL RSN IE FOUND: 30 14 01 00 00 0f ac 04 01 00 00 0f ac 04 01 00 00 0f ac 02 00 00
+2021-01-16 11:21:28.95 kernel[0]: (IO80211Family) storeFullRSNIE: getAP_IE_LIST returned 0
+2021-01-16 11:21:28.95 kernel[0]: (IO80211Family) parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+2021-01-16 11:21:28.96 kernel[0]: (IO80211Family) process1of4: authsel is 2
+2021-01-16 11:21:28.96 kernel[0]: (IO80211Family) PMK: fa ed ef 4b 15 29 c5 1f 16 c1 19 70 cb 12 a7 10 aa 9b 43 75 f6 2d 0c f7 12 d3 31 41 11 b9 d7 99
+2021-01-16 11:21:28.97 kernel[0]: (IO80211Family) TPTK: 2e a1 65 ca 79 50 f8 1c e6 f0 6e 29 47 3f 5c 74 f2 c3 13 08 8c de d4 7b 45 d0 10 56 bd e9 5e c9 1c 0c 58 3c ff 75 cc 08 68 2f 2b 3c 81 87 d2 15 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+2021-01-16 11:21:29.02 kernel[0]: (IO80211Family) KEY MIC: 2f a3 44 57 f6 7c dc cc a5 98 82 11 1a fb ea 95
+2021-01-16 11:21:29.02 kernel[0]: (IO80211Family) process1of4: sending replyPacket 135 bytes
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) AirPort: Link Up on en1
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) postMessage::1412 APPLE80211_M_BSSID_CHANGED received
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) en1: BSSID changed to 48:4e:fc:be:e3:49
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) No InterfaceAverageCCA
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) Adding setInterfaceAverageCCA with cca 0
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) Added known cca 0 for channel 157 into setInterfaceAverageCCA
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) en1: channel changed to 157,80
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) en1: BSSID changed to 48:4e:fc:be:e3:49
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) en1: channel changed to 157,80
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) en1::IO80211Interface::postMessage bssid changed
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::getInfrastructureState infra channel 0 -> 157, beacon_period(0)
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::getInfrastructureState(): Infrastructure state changed: BSSID(48:4E:FC:BE:E3:49), Channel(157), beacon_period(0)
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::interfaceStateChange Infra State Changed, Channel = 157
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) com.apple.p2p: interfaceStateChange[3009]: source:SetInfraChannel ( isBssSteeringEnabled() && _bssSteeringManager && isBssSteeringPeer()):0
+2021-01-16 11:21:29.03 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setCountryCodeState We don't have a country code, setting internal state to request for CC from an AWDL peer
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) Unexpected payload found for message 9, dataLen 0
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) Error storing postMessage 9
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) en1: Received EAPOL packet (length = 169)
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) inputEAPOLFrame: decrypting key data
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) inputEAPOLFrame: Received message 3 of 4
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) process3of4: Performing IE check.
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) process3of4: sending replyPacket ( len = 113 ).
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) process3of4: received pairwise GTK
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) ptkThread: Sleeping!
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) ptkThread: Installing PTK!
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) PTK: 1c 0c 58 3c ff 75 cc 08 68 2f 2b 3c 81 87 d2 15
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) ptkThread: Installing GTK!
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) installGTK: setting cipher key (flags = 0x0)
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) GTK-RSC: 00 00 00 00 00 00
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) GTK: 7c e6 bc 43 e4 28 93 6c 22 17 6f 1c ce 19 3c ea
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) AirPort: RSN handshake complete on en1
+2021-01-16 11:21:29.10 kernel[0]: (IO80211Family) installGTK: GTK installed
+2021-01-16 11:21:30.95 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from SUSPENDED to AUTO
+2021-01-16 11:21:30.95 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::exitAwdlSuspendedMode Resuming AWDL from SUSPEND  mode
+2021-01-16 11:21:30.95 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setCountryCodeState We don't have a country code, setting internal state to request for CC from an AWDL peer
+2021-01-16 11:21:30.95 kernel[0]: (IO80211Family) com.apple.p2p: AWDL is off
+2021-01-16 11:21:31.20 kernel[0]: (IO80211Family) Adding setInterfaceAverageCCA with cca 0
+2021-01-16 11:21:31.20 kernel[0]: (IO80211Family) en1: 802.11d country code set to 'US'.
+2021-01-16 11:21:31.20 kernel[0]: (IO80211Family) en1: Supported channels 1 2 3 4 5 6 7 8 9 10 11 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165
+2021-01-16 11:21:31.20 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::setCountryCodeState Valid host determined country code
+2021-01-16 11:21:31.20 kernel[0]: (IO80211Family) com.apple.p2p: Clearing supervisor locale, source AWDL, _peerLearnedLocale 0
+2021-01-16 11:21:31.20 kernel[0]: (IO80211Family) com.apple.p2p: configureValidAWDLChannels:10545 Associated on non-DFS channel 157 (40MHz+).  Channel is  allowed for use by AWDL
+2021-01-16 11:21:31.20 kernel[0]: (IO80211Family) com.apple.p2p: IO80211AWDLPeerManager::configureValidAWDLChannels social channel 2G: 6 on 5G: 149 5G Alt: 44 country code: US

@@ -1,0 +1,4 @@
+2021-01-16 11:21:29.12 kernel[0]: (IOAcceleratorFamily2) virtual IOReturn IOAccelLegacySurface::set_id_mode(uint32_t, uint32_t): Surface mode contains bad bits
+2021-01-16 11:21:29.12 kernel[0]: (IOAcceleratorFamily2) virtual IOReturn IOAccelLegacySurface::set_id_mode(uint32_t, uint32_t): Surface mode contains bad bits
+2021-01-16 11:21:29.12 kernel[0]: (IOAcceleratorFamily2) virtual IOReturn IOAccelLegacySurface::set_id_mode(uint32_t, uint32_t): Surface mode contains bad bits
+2021-01-16 11:21:29.12 kernel[0]: (IOAcceleratorFamily2) virtual IOReturn IOAccelLegacySurface::set_id_mode(uint32_t, uint32_t): Surface mode contains bad bits
