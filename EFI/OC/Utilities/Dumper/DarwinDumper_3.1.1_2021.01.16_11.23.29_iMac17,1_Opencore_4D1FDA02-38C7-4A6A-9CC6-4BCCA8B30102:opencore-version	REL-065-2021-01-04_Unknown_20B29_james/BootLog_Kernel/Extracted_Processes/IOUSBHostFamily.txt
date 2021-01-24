@@ -1,2 +1,0 @@
-2021-01-16 11:21:32.12 kernel[0]: (IOUSBHostFamily) 000016.971516 systemstats@(null): AppleUSBHostUserClient::start: missing entitlement com.apple.bluetooth.control
-2021-01-16 11:21:32.12 kernel[0]: (IOUSBHostFamily) 000016.972977 systemstats@(null): AppleUSBHostUserClient::start: missing entitlement com.apple.bluetooth.control

@@ -1,3 +1,0 @@
-2021-01-16 11:21:15.45 kernel[0]: (AppleSSE) AppleSSE::start called
-2021-01-16 11:21:15.45 kernel[0]: (AppleSSE) AssertMacros: value (value: 0x0),  file: /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/AppleSSE/AppleSSE-212.40.5/AppleSSE/AppleSSE.cpp, line: 47
-2021-01-16 11:21:15.45 kernel[0]: (AppleSSE) AppleSSE::start returning, result = 1

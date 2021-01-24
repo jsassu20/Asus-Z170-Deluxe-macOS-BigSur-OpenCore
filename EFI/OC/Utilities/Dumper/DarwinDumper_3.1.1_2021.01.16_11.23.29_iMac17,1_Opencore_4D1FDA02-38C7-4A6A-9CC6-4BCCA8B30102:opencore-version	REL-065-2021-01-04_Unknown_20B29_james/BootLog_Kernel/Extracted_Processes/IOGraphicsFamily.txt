@@ -1,7 +1,0 @@
-2021-01-16 11:21:19.96 kernel[0]: (IOGraphicsFamily) IOG flags 0x3 (0x51)
-2021-01-16 11:21:20.06 kernel[0]: (IOGraphicsFamily) GTrace synchronization point 1
-2021-01-16 11:21:21.22 kernel[0]: (IOGraphicsFamily) GTrace synchronization point 3
-2021-01-16 11:21:21.23 kernel[0]: (IOGraphicsFamily) GTrace synchronization point 4
-2021-01-16 11:21:21.23 kernel[0]: (IOGraphicsFamily) GTrace synchronization point 5
-2021-01-16 11:21:21.23 kernel[0]: (IOGraphicsFamily) GTrace synchronization point 6
-2021-01-16 11:21:27.53 kernel[0]: (IOGraphicsFamily) GTrace synchronization point d

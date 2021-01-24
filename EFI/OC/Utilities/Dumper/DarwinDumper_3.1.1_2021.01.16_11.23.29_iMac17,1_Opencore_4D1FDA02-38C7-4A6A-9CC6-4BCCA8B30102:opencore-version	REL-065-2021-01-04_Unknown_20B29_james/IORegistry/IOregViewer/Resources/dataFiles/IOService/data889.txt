@@ -1,4 +1,0 @@
-[
-{"data":{"title":"IOTTYBaseName"},"attr":{"id":"60578","ColType":"String","ColValue":"Bluetooth-Incoming-Port"}},
-{"data":{"title":"IOTTYSuffix"},"attr":{"id":"60580","ColType":"String","ColValue":""}}
-]

@@ -1,3 +1,0 @@
-[
-{"data":{"title":"Domain UUID"},"attr":{"id":"30339","ColType":"String","ColValue":"242DFBFF-6975-4BB6-9EC2-F4BA4149021F"}}
-]

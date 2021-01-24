@@ -1,5 +1,0 @@
-[
-{"data":{"title":"IOMACAddress"},"attr":{"id":"43582","ColType":"Data","ColValue":"&lt;0a63dfba238d&gt;"}},
-{"data":{"title":"BSD Name"},"attr":{"id":"43584","ColType":"String","ColValue":"p2p0"}},
-{"data":{"title":"IO80211VirtualInterfaceRole"},"attr":{"id":"43586","ColType":"String","ColValue":"P2P Device"}}
-]

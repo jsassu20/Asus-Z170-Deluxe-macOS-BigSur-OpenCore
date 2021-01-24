@@ -1,7 +1,0 @@
-[
-{"data":{"title":"firmware-revision"},"attr":{"id":"4210","ColType":"Data","ColValue":"&lt;0c000500&gt;"}},
-{"data":{"title":"device-properties"},"attr":{"id":"4212","ColType":"Data","ColValue":"&lt;9c00000001000000020000003e0000000100000002010c00d041030a0000000001010600031f7fff0400180000006c00610079006f00750074002d006900640000000800000001000000520000000100000002010c00d041030a000000000101060000027fff04002c0000004100410050004c002c00690067002d0070006c006100740066006f0072006d002d006900640000000800000001001219&gt;"}},
-{"data":{"title":"firmware-abi"},"attr":{"id":"4214","ColType":"Data","ColValue":"&lt;\"EFI64\"&gt;"}},
-{"data":{"title":"name"},"attr":{"id":"4216","ColType":"Data","ColValue":"&lt;\"efi\"&gt;"}},
-{"data":{"title":"firmware-vendor"},"attr":{"id":"4218","ColType":"Data","ColValue":"&lt;41006d00650072006900630061006e0020004d006500670061007400720065006e00640073000000&gt;"}}
-]

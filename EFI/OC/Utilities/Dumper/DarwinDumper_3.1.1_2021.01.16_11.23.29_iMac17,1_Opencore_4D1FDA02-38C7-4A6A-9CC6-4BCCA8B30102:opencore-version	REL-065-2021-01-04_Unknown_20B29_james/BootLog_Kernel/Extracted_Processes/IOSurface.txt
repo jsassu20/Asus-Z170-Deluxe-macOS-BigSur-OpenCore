@@ -1,9 +1,0 @@
-2021-01-16 11:21:29.05 kernel[0]: (IOSurface) 
-2021-01-16 11:21:29.05 kernel[0]: (IOSurface) 
-2021-01-16 11:21:29.06 kernel[0]: (IOSurface) 
-2021-01-16 11:21:29.06 kernel[0]: (IOSurface) 
-2021-01-16 11:21:29.07 kernel[0]: (IOSurface) 
-2021-01-16 11:21:29.07 kernel[0]: (IOSurface) 
-2021-01-16 11:21:29.08 kernel[0]: (IOSurface) 
-2021-01-16 11:21:29.08 kernel[0]: (IOSurface) 
-2021-01-16 11:21:32.39 kernel[0]: (IOSurface) IOSurfaceRootUserClient::set_gpu_policy_dict prop: <private>

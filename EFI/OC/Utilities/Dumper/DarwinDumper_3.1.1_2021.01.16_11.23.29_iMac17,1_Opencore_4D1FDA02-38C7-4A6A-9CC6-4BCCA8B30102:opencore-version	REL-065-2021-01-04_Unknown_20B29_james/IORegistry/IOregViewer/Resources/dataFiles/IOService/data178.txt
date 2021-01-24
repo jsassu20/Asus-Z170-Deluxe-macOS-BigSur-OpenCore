@@ -1,4 +1,0 @@
-[
-{"data":{"title":"API"},"attr":{"id":"9575","ColType":"String","ColValue":"Metal"}},
-{"data":{"title":"IOUserClientCreator"},"attr":{"id":"9577","ColType":"String","ColValue":"pid 414, com.apple.dock.e"}}
-]

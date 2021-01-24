@@ -1,4 +1,0 @@
-[
-{"data":{"title":"IOUserClientCreator"},"attr":{"id":"4724","ColType":"String","ColValue":"pid 131, bluetoothd"}},
-{"data":{"title":"IOUserClientDefaultLocking"},"attr":{"id":"4726","ColType":"Boolean","ColValue":"Yes"}}
-]

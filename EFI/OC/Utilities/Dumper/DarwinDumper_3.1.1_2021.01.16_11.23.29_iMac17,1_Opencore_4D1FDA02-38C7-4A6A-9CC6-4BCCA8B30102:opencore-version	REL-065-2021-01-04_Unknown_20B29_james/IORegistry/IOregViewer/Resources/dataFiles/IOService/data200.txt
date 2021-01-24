@@ -1,5 +1,0 @@
-[
-{"data":{"title":"lastSubmittedTime"},"attr":{"id":"9653","ColType":"Number","ColValue":"106011362196"}},
-{"data":{"title":"IOUserClientCreator"},"attr":{"id":"9655","ColType":"String","ColValue":"pid 592, com.apple.appkit"}},
-{"data":{"title":"accumulatedGPUTime"},"attr":{"id":"9657","ColType":"Number","ColValue":"185440"}}
-]

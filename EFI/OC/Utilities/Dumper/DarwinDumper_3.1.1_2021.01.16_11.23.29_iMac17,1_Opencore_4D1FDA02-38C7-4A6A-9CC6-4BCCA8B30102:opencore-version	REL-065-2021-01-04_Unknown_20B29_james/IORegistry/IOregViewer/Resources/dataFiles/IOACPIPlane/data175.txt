@@ -1,5 +1,0 @@
-[
-{"data":{"title":"_UID"},"attr":{"id":"6738","ColType":"String","ColValue":"MXM2"}},
-{"data":{"title":"_STA"},"attr":{"id":"6740","ColType":"Number","ColValue":"18446744073709551615"}},
-{"data":{"title":"name"},"attr":{"id":"6742","ColType":"Data","ColValue":"&lt;\"PNP0C14\"&gt;"}}
-]

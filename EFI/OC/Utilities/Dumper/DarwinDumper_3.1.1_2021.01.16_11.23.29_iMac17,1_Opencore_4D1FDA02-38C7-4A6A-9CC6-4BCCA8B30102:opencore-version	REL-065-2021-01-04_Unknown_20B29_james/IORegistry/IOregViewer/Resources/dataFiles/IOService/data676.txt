@@ -1,4 +1,0 @@
-[
-{"data":{"title":"IOUserClientCreator"},"attr":{"id":"54301","ColType":"String","ColValue":"pid 122, CorsairAudioConf"}},
-{"data":{"title":"IOUserClientDefaultLocking"},"attr":{"id":"54303","ColType":"Boolean","ColValue":"Yes"}}
-]

@@ -1,9 +1,0 @@
-[
-{"data":{"title":"IOProbeScore"},"attr":{"id":"60329","ColType":"Number","ColValue":"4000"}},
-{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"60331","ColType":"String","ColValue":"com.apple.driver.AppleIntelSlowAdaptiveClocking"}},
-{"data":{"title":"IOMatchCategory"},"attr":{"id":"60333","ColType":"String","ColValue":"AppleIntelSlowAdaptiveClockingManager"}},
-{"data":{"title":"IOClass"},"attr":{"id":"60335","ColType":"String","ColValue":"AppleIntelSlowAdaptiveClockingManager"}},
-{"data":{"title":"IOPersonalityPublisher"},"attr":{"id":"60337","ColType":"String","ColValue":"com.apple.driver.AppleIntelSlowAdaptiveClocking"}},
-{"data":{"title":"IOProviderClass"},"attr":{"id":"60339","ColType":"String","ColValue":"IOResources"}},
-{"data":{"title":"CFBundleIdentifierKernel"},"attr":{"id":"60341","ColType":"String","ColValue":"com.apple.driver.AppleIntelSlowAdaptiveClocking"}}
-]

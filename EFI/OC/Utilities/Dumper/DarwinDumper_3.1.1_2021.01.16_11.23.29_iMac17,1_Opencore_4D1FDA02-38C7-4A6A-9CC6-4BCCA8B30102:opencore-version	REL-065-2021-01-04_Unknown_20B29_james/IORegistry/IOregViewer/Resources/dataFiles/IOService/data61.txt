@@ -1,4 +1,0 @@
-[
-{"data":{"title":"IOUserClientCreator"},"attr":{"id":"4668","ColType":"String","ColValue":"pid 400, itunescloudd"}},
-{"data":{"title":"IOUserClientDefaultLocking"},"attr":{"id":"4670","ColType":"Boolean","ColValue":"Yes"}}
-]

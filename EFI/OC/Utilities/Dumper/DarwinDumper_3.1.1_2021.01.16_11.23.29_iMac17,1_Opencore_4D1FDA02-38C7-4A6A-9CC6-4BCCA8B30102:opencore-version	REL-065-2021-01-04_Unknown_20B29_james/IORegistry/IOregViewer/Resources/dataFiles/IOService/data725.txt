@@ -1,5 +1,0 @@
-[
-{"data":{"title":"compatible"},"attr":{"id":"56033","ColType":"Data","ColValue":"&lt;\"PNP0C02\"&gt;"}},
-{"data":{"title":"_STA"},"attr":{"id":"56035","ColType":"Number","ColValue":"15"}},
-{"data":{"title":"name"},"attr":{"id":"56037","ColType":"Data","ColValue":"&lt;\"INT340E\"&gt;"}}
-]

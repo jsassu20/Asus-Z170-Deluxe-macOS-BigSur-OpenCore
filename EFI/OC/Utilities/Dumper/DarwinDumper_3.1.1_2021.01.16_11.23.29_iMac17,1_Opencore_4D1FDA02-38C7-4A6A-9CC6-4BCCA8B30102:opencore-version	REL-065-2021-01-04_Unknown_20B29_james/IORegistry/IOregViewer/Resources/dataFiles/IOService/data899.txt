@@ -1,4 +1,0 @@
-[
-{"data":{"title":"IOKit"},"attr":{"id":"62265","ColType":"String","ColValue":"IOService"}},
-{"data":{"title":"IOResourceMatched"},"attr":{"id":"62267","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"62268","ColType":"String","ColValue":"IOKit"}}]}
-]

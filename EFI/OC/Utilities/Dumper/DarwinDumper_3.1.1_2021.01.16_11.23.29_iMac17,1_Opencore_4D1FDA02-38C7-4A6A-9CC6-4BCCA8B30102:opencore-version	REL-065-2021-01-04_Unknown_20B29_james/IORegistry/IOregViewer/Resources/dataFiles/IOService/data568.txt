@@ -1,4 +1,0 @@
-[
-{"data":{"title":"IOUserClientCreator"},"attr":{"id":"49885","ColType":"String","ColValue":"pid 125, PerfPowerService"}},
-{"data":{"title":"IOUserClientDefaultLocking"},"attr":{"id":"49887","ColType":"Boolean","ColValue":"Yes"}}
-]

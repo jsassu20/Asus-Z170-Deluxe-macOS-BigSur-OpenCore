@@ -1,3 +1,0 @@
-[
-{"data":{"title":"PanicWatchdogEnabled"},"attr":{"id":"56178","ColType":"Boolean","ColValue":"Yes"}}
-]

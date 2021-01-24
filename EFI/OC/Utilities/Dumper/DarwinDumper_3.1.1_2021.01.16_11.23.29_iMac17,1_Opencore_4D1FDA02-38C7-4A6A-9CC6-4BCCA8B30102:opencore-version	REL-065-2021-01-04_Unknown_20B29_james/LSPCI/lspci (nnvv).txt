@@ -1,1 +1,0 @@
-DirectHW.kext not loaded.

@@ -1,4 +1,0 @@
-[
-{"data":{"title":"IOUserClientCreator"},"attr":{"id":"26135","ColType":"String","ColValue":"pid 884, iCUE"}},
-{"data":{"title":"IOUserClientDefaultLocking"},"attr":{"id":"26137","ColType":"Boolean","ColValue":"Yes"}}
-]

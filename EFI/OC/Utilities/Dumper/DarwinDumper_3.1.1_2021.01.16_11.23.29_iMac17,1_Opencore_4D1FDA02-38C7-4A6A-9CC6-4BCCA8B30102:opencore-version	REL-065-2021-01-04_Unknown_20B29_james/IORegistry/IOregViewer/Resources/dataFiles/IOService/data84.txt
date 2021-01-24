@@ -1,3 +1,0 @@
-[
-{"data":{"title":"IOPlatformInterruptController"},"attr":{"id":"4806","ColType":"Boolean","ColValue":"Yes"}}
-]

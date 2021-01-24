@@ -1,5 +1,0 @@
-[
-{"data":{"title":"_UID"},"attr":{"id":"10922","ColType":"String","ColValue":"ASUSWMI"}},
-{"data":{"title":"_STA"},"attr":{"id":"10924","ColType":"Number","ColValue":"18446744073709551615"}},
-{"data":{"title":"name"},"attr":{"id":"10926","ColType":"Data","ColValue":"&lt;\"PNP0C14\"&gt;"}}
-]

@@ -1,8 +1,0 @@
-[
-{"data":{"title":"characteristics"},"attr":{"id":"4468","ColType":"Number","ColValue":"5361081472"}},
-{"data":{"title":"vendor"},"attr":{"id":"4470","ColType":"Data","ColValue":"&lt;\"Acidanthera\"&gt;"}},
-{"data":{"title":"rom-size"},"attr":{"id":"4472","ColType":"Number","ColValue":"16777216"}},
-{"data":{"title":"firmware-features"},"attr":{"id":"4474","ColType":"Number","ColValue":"4228899127"}},
-{"data":{"title":"release-date"},"attr":{"id":"4476","ColType":"Data","ColValue":"&lt;\"11/03/2020\"&gt;"}},
-{"data":{"title":"version"},"attr":{"id":"4478","ColType":"Data","ColValue":"&lt;\"429.60.3.0.0\"&gt;"}}
-]

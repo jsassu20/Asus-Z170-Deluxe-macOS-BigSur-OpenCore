@@ -1,3 +1,0 @@
-2021-01-16 11:21:32.30 kernel[0]: (AppleGraphicsDeviceControl) AGDCC: Unauthorized client 'PerfPowerService' (IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/PEG0@1/IOPP/GFX0@0/AMD9500ControllerWrangler)
-2021-01-16 11:21:32.30 kernel[0]: (AppleGraphicsDeviceControl) AGDCC: Unauthorized client 'PerfPowerService' (IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/IGPU@2/AppleIntelFramebufferController/IntelFBClientControl)
-2021-01-16 11:21:32.30 kernel[0]: (AppleGraphicsDeviceControl) AGDCC: Unauthorized client 'PerfPowerService' (IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/PEG0@1/IOPP/GFX0@0/AtiDeviceControl)

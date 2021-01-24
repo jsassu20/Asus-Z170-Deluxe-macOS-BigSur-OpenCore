@@ -1,4 +1,0 @@
-[
-{"data":{"title":"name"},"attr":{"id":"4224","ColType":"Data","ColValue":"&lt;\"runtime-services\"&gt;"}},
-{"data":{"title":"table"},"attr":{"id":"4226","ColType":"Data","ColValue":"&lt;987e233b00000000&gt;"}}
-]

@@ -1,9 +1,0 @@
-2021-01-16 11:21:27.65 kernel[0]: (AirPortBrcmNIC) ARPT: 12.500806: wl0: setAWDL_PEER_TRAFFIC_REGISTRATION: active 0, roam_off: 1, err 0 roam_start_set 0 forced_roam_set 0
-2021-01-16 11:21:28.51 kernel[0]: (AirPortBrcmNIC) ARPT: 13.364457: wl0: setCIPHER_KEY: key == NULL, clear keys
-2021-01-16 11:21:28.88 kernel[0]: (AirPortBrcmNIC) ARPT: 13.734811: txpwr advertised by STA: min 8dbm max 32dbm
-2021-01-16 11:21:29.10 kernel[0]: (AirPortBrcmNIC) ARPT: 13.954368: wlc_key_tsf_update key ID[4] TSF[000000000008e423]
-2021-01-16 11:21:29.10 kernel[0]: (AirPortBrcmNIC) ARPT: 13.954392: SetCryptoKey() bcmerr[0]:  ea[48:4e:fc:be:e3:49]  T: keyIdx[0] keylen[16] flags[0x0002] algo[4] rxiv(hi[0x00000000] lo[0x0000])
-2021-01-16 11:21:29.10 kernel[0]: (AirPortBrcmNIC) ARPT: 13.954706: wlc_key_tsf_update key ID[1] TSF[000000000008e583]
-2021-01-16 11:21:29.10 kernel[0]: (AirPortBrcmNIC) ARPT: 13.954728: SetCryptoKey() bcmerr[0]:  ea[00:00:00:00:00:00]  R: keyIdx[1] keylen[16] flags[0x0000] algo[4] rxiv(hi[0x00000000] lo[0x0000])
-2021-01-16 11:21:29.72 kernel[0]: (AirPortBrcmNIC) ARPT: 14.569718: wl0.0:  AES Rx frame after key[id:4] install TSF: ividx 0, got 0x000000000002 expected greater than or equal to 0x000000000000, key TSF[000000000008e423] frame TSF[000000000012471a]
-2021-01-16 11:21:30.94 kernel[0]: (AirPortBrcmNIC) ARPT: 15.791212: wl0.0:  AES Rx frame after key[id:1] install TSF: ividx 0, got 0x0000002398a6 expected greater than or equal to 0x000000000000, key TSF[000000000008e583] frame TSF[000000000024e9a8]

@@ -1,4 +1,0 @@
-[
-{"data":{"title":"IOUserClientCreator"},"attr":{"id":"10707","ColType":"String","ColValue":"pid 135, AirPlayXPCHelper"}},
-{"data":{"title":"IOUserClientDefaultLocking"},"attr":{"id":"10709","ColType":"Boolean","ColValue":"Yes"}}
-]

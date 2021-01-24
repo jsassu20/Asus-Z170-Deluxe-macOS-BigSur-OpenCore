@@ -1,5 +1,0 @@
-[
-{"data":{"title":"name"},"attr":{"id":"10855","ColType":"Data","ColValue":"&lt;\"PNP0C0E\"&gt;"}},
-{"data":{"title":"_STA"},"attr":{"id":"10857","ColType":"Number","ColValue":"11"}},
-{"data":{"title":"DeviceOpenedByEventSystem"},"attr":{"id":"10859","ColType":"Boolean","ColValue":"Yes"}}
-]

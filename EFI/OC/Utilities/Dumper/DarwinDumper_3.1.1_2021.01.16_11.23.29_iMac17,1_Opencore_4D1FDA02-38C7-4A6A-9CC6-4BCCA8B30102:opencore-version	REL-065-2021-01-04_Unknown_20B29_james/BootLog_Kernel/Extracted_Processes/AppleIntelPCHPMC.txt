@@ -1,4 +1,0 @@
-2021-01-16 11:21:27.31 kernel[0]: (AppleIntelPCHPMC) ApplePMC::publishedIOPPF() - failed
-2021-01-16 11:21:27.31 kernel[0]: (AppleIntelPCHPMC) ApplePMC::publishedIOPPF() - failed
-2021-01-16 11:21:27.31 kernel[0]: (AppleIntelPCHPMC) ApplePMC::publishedIOPPF() - failed
-2021-01-16 11:21:27.31 kernel[0]: (AppleIntelPCHPMC) ApplePMC::publishedIOPPF() - failed

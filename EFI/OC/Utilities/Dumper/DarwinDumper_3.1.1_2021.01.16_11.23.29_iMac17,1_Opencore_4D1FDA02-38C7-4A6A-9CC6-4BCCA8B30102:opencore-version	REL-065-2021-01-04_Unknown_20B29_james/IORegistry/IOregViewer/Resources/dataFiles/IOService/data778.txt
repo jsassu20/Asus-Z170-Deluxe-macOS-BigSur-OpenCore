@@ -1,4 +1,0 @@
-[
-{"data":{"title":"IOUserClientCreator"},"attr":{"id":"57355","ColType":"String","ColValue":"pid 365, UserEventAgent"}},
-{"data":{"title":"IOUserClientDefaultLocking"},"attr":{"id":"57357","ColType":"Boolean","ColValue":"Yes"}}
-]
