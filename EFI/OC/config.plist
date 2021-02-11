@@ -20,6 +20,22 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
+				<string>SSDT-RP03.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-XHC2.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
 				<string>SSDT-ASMXHC.aml</string>
 			</dict>
 			<dict>
@@ -117,14 +133,6 @@
 				<true/>
 				<key>Path</key>
 				<string>SSDT-XHC.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-UIAC.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
@@ -415,17 +423,6 @@
 				<key>subsystem-vendor-id</key>
 				<data>AhAAAA==</data>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x1C,0x2)/Pci(0x0,0x0)/Pci(0x5,0x0)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>PCIe Slot x1_2</string>
-				<key>device_type</key>
-				<string>AirPort Controller</string>
-				<key>model</key>
-				<string>Broadcom BCM94360CD 802.11 a/b/g/n/ac + Bluetooth 4.0 Controller</string>
-				<key>name</key>
-				<string>ARPT</string>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x1C,0x2)/Pci(0x0,0x0)/Pci(0x7,0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
@@ -435,7 +432,7 @@
 				<key>model</key>
 				<string>ASM2142 USB 3.1 Host Controller</string>
 				<key>name</key>
-				<string>XHC6</string>
+				<string>XHC5</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x0,0x0)</key>
 			<dict>
@@ -658,13 +655,13 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>USBInjectAll.kext</string>
+				<string>Asus-Z170-Deluxe-USBPorts.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/USBInjectAll</string>
+				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
