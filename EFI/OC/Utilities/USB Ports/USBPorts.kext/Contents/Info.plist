@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>MacPro7,1-XHC</key>
+		<key>iMac17,1-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -41,11 +41,11 @@
 				<key>kUSBSleepPortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBSleepPowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>kUSBWakePortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBWakePowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>port-count</key>
 				<data>
 				FgAAAA==
@@ -54,8 +54,10 @@
 				<dict>
 					<key>HS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel IXHC Controller (USB3_12 Header/Port 1) DISABLED</string>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>name</key>
 						<string>HS01</string>
 						<key>port</key>
@@ -65,8 +67,10 @@
 					</dict>
 					<key>HS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel IXHC Controller (USB3_12 Header/Port 2) Front Panel USB Type-A Port</string>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>name</key>
 						<string>HS02</string>
 						<key>port</key>
@@ -76,8 +80,10 @@
 					</dict>
 					<key>HS03</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel IXHC Controller (USB3_34 Header/Port 1) DISABLED</string>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>name</key>
 						<string>HS03</string>
 						<key>port</key>
@@ -87,8 +93,10 @@
 					</dict>
 					<key>HS04</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel IXHC Controller (USB3_34 Header/Port 2) Front Panel USB Type-C Port</string>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 						<key>name</key>
 						<string>HS04</string>
 						<key>port</key>
@@ -98,6 +106,8 @@
 					</dict>
 					<key>HS05</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel XHC Controller Asus BIOS Recovery Flash Port (Rear Panel, Bottom Row, Black Port</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>name</key>
@@ -109,6 +119,8 @@
 					</dict>
 					<key>HS06</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asus Key Express Port ( Assignable Hardware Control of Macros Keyboard)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -120,6 +132,8 @@
 					</dict>
 					<key>HS11</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel XHC Controller (USB_12 Port/ Port 1) DISABLED</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
@@ -131,6 +145,8 @@
 					</dict>
 					<key>HS12</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel XHC Controller (USB_12 Port/ Port 2) Broadcom Internal Bluetooth USB Hub</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
@@ -142,6 +158,8 @@
 					</dict>
 					<key>HS13</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel XHC Controller (USB_34 Port/ Port 1) DISABLED</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
@@ -153,6 +171,8 @@
 					</dict>
 					<key>HS14</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel XHC Controller (USB_34 Port/ Port 2) DISABLED</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
@@ -164,6 +184,8 @@
 					</dict>
 					<key>SS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel IXHC Controller (USB3_12 Header/Port 1) DISABLED</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -175,6 +197,8 @@
 					</dict>
 					<key>SS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel IXHC Controller (USB3_12 Header/Port 2) Front Panel USB Type-A Port</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -186,6 +210,8 @@
 					</dict>
 					<key>SS03</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel IXHC Controller (USB3_34 Header/Port 1) DISABLED</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -197,6 +223,8 @@
 					</dict>
 					<key>SS04</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel IXHC Controller (USB3_34 Header/Port 2) Front Panel USB Type-C Port</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -208,6 +236,8 @@
 					</dict>
 					<key>SS06</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asus Key Express Port ( Assignable Hardware Control of Macros Keyboard)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -220,9 +250,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacPro7,1</string>
+			<string>iMac17,1</string>
 		</dict>
-		<key>MacPro7,1-XHC2</key>
+		<key>iMac17,1-XHC2</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -231,21 +261,21 @@
 			<key>IONameMatch</key>
 			<string>XHC2</string>
 			<key>IOPCIPrimaryMatch</key>
-			<string>0x12421b21</string>
+			<string>0x15d48086</string>
 			<key>IOProbeScore</key>
 			<integer>5000</integer>
 			<key>IOProviderClass</key>
-			<string>AppleASMediaUSBXHCI</string>
+			<string>AppleUSBXHCIAR</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>kUSBSleepPortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBSleepPowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>kUSBWakePortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBWakePowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>port-count</key>
 				<data>
 				BAAAAA==
@@ -254,32 +284,25 @@
 				<dict>
 					<key>HS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel Alpine Ridge Thunderbolt 3 Controller (Port 1) 40GB/s, Up to 6 TB devices Per Port</string>
 						<key>UsbConnector</key>
 						<integer>9</integer>
 						<key>name</key>
 						<string>HS01</string>
 						<key>port</key>
 						<data>
-						AwAAAA==
+						AQAAAA==
 						</data>
 					</dict>
 					<key>HS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel Alpine Ridge Thunderbolt 3 Controller (Port 2) 40GB/s, Up to 6 TB devices Per Port</string>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>name</key>
 						<string>HS02</string>
-						<key>port</key>
-						<data>
-						BAAAAA==
-						</data>
-					</dict>
-					<key>SS02</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>name</key>
-						<string>SS02</string>
 						<key>port</key>
 						<data>
 						AgAAAA==
@@ -287,21 +310,36 @@
 					</dict>
 					<key>SSP1</key>
 					<dict>
+						<key>Comment</key>
+						<string>Intel Alpine Ridge Thunderbolt 3 Controller (Port 1) 40GB/s, Up to 6 TB devices Per Port</string>
 						<key>UsbConnector</key>
 						<integer>9</integer>
 						<key>name</key>
 						<string>SSP1</string>
 						<key>port</key>
 						<data>
-						AQAAAA==
+						AwAAAA==
+						</data>
+					</dict>
+					<key>SSP2</key>
+					<dict>
+						<key>Comment</key>
+						<string>Intel Alpine Ridge Thunderbolt 3 Controller (Port 1) 40GB/s, Up to 6 TB devices Per Port</string>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>name</key>
+						<string>SSP2</string>
+						<key>port</key>
+						<data>
+						BAAAAA==
 						</data>
 					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacPro7,1</string>
+			<string>iMac17,1</string>
 		</dict>
-		<key>MacPro7,1-XHC3</key>
+		<key>iMac17,1-XHC3</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -320,11 +358,11 @@
 				<key>kUSBSleepPortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBSleepPowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>kUSBWakePortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBWakePowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>port-count</key>
 				<data>
 				BAAAAA==
@@ -333,8 +371,10 @@
 				<dict>
 					<key>HS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, Top Row, USB 3.1 Typ-C Port (Left Hand Port)</string>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>name</key>
 						<string>HS01</string>
 						<key>port</key>
@@ -344,6 +384,8 @@
 					</dict>
 					<key>HS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, Top Row, USB 3.1 Typ-A Port (Right Hand Port)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -353,19 +395,10 @@
 						BAAAAA==
 						</data>
 					</dict>
-					<key>SS01</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>name</key>
-						<string>SS01</string>
-						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
-					</dict>
 					<key>SS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, Top Row, USB 3.1 Typ-A Port (Right Hand Port)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -375,12 +408,25 @@
 						AgAAAA==
 						</data>
 					</dict>
+					<key>SSP1</key>
+					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, Top Row, USB 3.1 Typ-C Port (Left Hand Port)</string>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>name</key>
+						<string>SSP1</string>
+						<key>port</key>
+						<data>
+						AQAAAA==
+						</data>
+					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacPro7,1</string>
+			<string>iMac17,1</string>
 		</dict>
-		<key>MacPro7,1-XHC4</key>
+		<key>iMac17,1-XHC4</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -399,11 +445,11 @@
 				<key>kUSBSleepPortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBSleepPowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>kUSBWakePortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBWakePowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>port-count</key>
 				<data>
 				BAAAAA==
@@ -412,6 +458,8 @@
 				<dict>
 					<key>HS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, 2nd Row, USB 3.1 Port (Left Hand Port)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -423,6 +471,8 @@
 					</dict>
 					<key>HS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, 2nd Row, USB 3.1 Port (Right Hand Port)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -434,6 +484,8 @@
 					</dict>
 					<key>SS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller,  Rear Panel, 2nd Row, USB 3.1 Port (Left Hand Port)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -445,6 +497,8 @@
 					</dict>
 					<key>SS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, 2nd Row, USB 3.1 Port (Right Hand Port)</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -457,9 +511,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacPro7,1</string>
+			<string>iMac17,1</string>
 		</dict>
-		<key>MacPro7,1-XHC5</key>
+		<key>iMac17,1-XHC5</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -468,21 +522,21 @@
 			<key>IONameMatch</key>
 			<string>XHC5</string>
 			<key>IOPCIPrimaryMatch</key>
-			<string>0x21421b21</string>
+			<string>0x12421b21</string>
 			<key>IOProbeScore</key>
 			<integer>5000</integer>
 			<key>IOProviderClass</key>
-			<string>AppleASMedia3142USBXHCI</string>
+			<string>AppleASMediaUSBXHCI</string>
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>kUSBSleepPortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBSleepPowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>kUSBWakePortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBWakePowerSupply</key>
-				<integer>4700</integer>
+				<integer>5100</integer>
 				<key>port-count</key>
 				<data>
 				BAAAAA==
@@ -491,8 +545,10 @@
 				<dict>
 					<key>HS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, 3rd Row, USB 3.1 Port (Left Hand Port)</string>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS01</string>
 						<key>port</key>
@@ -502,8 +558,10 @@
 					</dict>
 					<key>HS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, 3rd Row, USB 3.1 Port (Right Hand Port)</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS02</string>
 						<key>port</key>
@@ -511,21 +569,36 @@
 						BAAAAA==
 						</data>
 					</dict>
-					<key>SSP1</key>
+					<key>SS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, 3rd Row, USB 3.1 Port (Left Hand Port)</string>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>3</integer>
 						<key>name</key>
-						<string>SSP1</string>
+						<string>SS01</string>
 						<key>port</key>
 						<data>
 						AQAAAA==
 						</data>
 					</dict>
+					<key>SS02</key>
+					<dict>
+						<key>Comment</key>
+						<string>Asmedia USB 3.1 Controller, Rear Panel, 3rd Row, USB 3.1 Port (Right Hand Port)</string>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>name</key>
+						<string>SS02</string>
+						<key>port</key>
+						<data>
+						AgAAAA==
+						</data>
+					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacPro7,1</string>
+			<string>iMac17,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
