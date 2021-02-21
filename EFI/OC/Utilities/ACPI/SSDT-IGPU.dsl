@@ -1,13 +1,10 @@
 DefinitionBlock ("", "SSDT", 2, "Z170D", "IGPU", 0x00000000)
 {
     External (_SB_.PCI0.IGPU, DeviceObj)
-    External (DTGP, MethodObj)    // 5 Arguments
 
-    Device (_SB.PCI0.IGPU)
+
+        Method (_SB.PCI0.IGPU._DSM, 4, NotSerialized)  // _DSM: Device-Specific Method
     {
-        Name (_ADR, 0x00020000)  // _ADR: Address
-        Method (_DSM, 4, NotSerialized)  // _DSM: Device-Specific Method
-        {
             If ((Arg2 == Zero))
             {
                 Return (Buffer (One)
@@ -36,7 +33,5 @@ DefinitionBlock ("", "SSDT", 2, "Z170D", "IGPU", 0x00000000)
 			})
         }
 
-    DTGP (Arg0, Arg1, Arg2, Arg3, RefOf (Local0))
-    }Return (Local0)
 }
 
