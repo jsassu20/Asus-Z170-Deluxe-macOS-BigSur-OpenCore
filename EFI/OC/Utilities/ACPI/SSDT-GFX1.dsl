@@ -19,29 +19,10 @@ DefinitionBlock ("", "SSDT", 1, "Z170D", "GFX1", 0x00000000)
 
             Return (Package ()
             {
-                "AAPL,slot-name", 
-                Buffer ()
-                {
-                    "PCIe x16 Slot 1"
-                },
-                
-                "model", 
-                Buffer ()
-                {
-                    "AMD Radeon RX 570"
-                },
-                
-                "device-type", 
-                Buffer ()
-                {
-                    "VGA Compatible Controller"
-                },  
-
-                "hda-gfx", 
-                Buffer (0x0A)
-                {
-                    "onboard-1"
-                },
+                "AAPL,slot-name", Buffer () {"PCIe x16 Slot 1"},
+                "model", Buffer () {"AMD Radeon RX 570"},
+                "device-type", Buffer () {"VGA Compatible Controller"},  
+                "hda-gfx", Buffer (0x0A) {"onboard-1"},
                 
                 "device-id", 
                 Buffer (0x04)
