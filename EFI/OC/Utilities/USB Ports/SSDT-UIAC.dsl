@@ -84,11 +84,11 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "_UIAC", 0)
                 "port-count", Buffer() { 0x04, 0x00, 0x00, 0x00 },
                 "ports", Package()
                 {
-                      "HS01", Package()
+                      "SSP1", Package()
                       {
                           "name", Buffer() { "HS01" },
                           "UsbConnector", 9,
-                          "port", Buffer() { 0x03, 0x00, 0x00, 0x00 },
+                          "port", Buffer() { 0x01, 0x00, 0x00, 0x00 },
                           "Comment", Buffer() { "External USB 3.1 Type-C Port - USB3.1_EC1 (Rear USB Type-C Port)" },
                       },
                       "HS02", Package()
@@ -233,20 +233,6 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "_UIAC", 0)
                 "port-count", Buffer() { 0x04, 0x00, 0x00, 0x00 },
                 "ports", Package()
                 {
-                      "HS01", Package()
-                      {
-                          "name", Buffer() { "HS01" },
-                          "UsbConnector", 9,
-                          "port", Buffer() { 0x03, 0x00, 0x00, 0x00 },
-                          "Comment", Buffer() { "External Thunderbolt 3 Port - TB3_1 (USB 3.1 Type-C, Displayport, PCIe x4)" },
-                      },
-                      "HS02", Package()
-                      {
-                          "name", Buffer() { "HS02" },
-                          "UsbConnector", 9,
-                          "port", Buffer() { 0x04, 0x00, 0x00, 0x00 },
-                          "Comment", Buffer() { "External Thunderbolt 3 Port - TB3_2 (USB 3.1 Type-C, Displayport, PCIe x4)" },
-                      },
                       "SSP1", Package()
                       {
                           "name", Buffer() { "SSP1" },
